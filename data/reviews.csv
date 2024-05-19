@@ -1,0 +1,501 @@
+reviewID,publicationID,paperID,title,reviewDecision,reviewDecisionBoolean
+r0,pub0,p0,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",rejected,0
+r1,pub1,p1,High-Dimensional Probability: An Introduction with Applications in Data Science,accepted,1
+r2,pub2,p2,CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories,accepted,1
+r3,pub3,p3,"Data Science and Analytics: An Overview from Data-Driven Smart Computing, Decision-Making and Applications Perspective",accepted,1
+r4,pub4,p4,AutoDS: Towards Human-Centered Automation of Data Science,rejected,0
+r5,pub5,p5,Computational Optimal Transport: With Applications to Data Science,accepted,1
+r6,pub6,p6,Data Science,accepted,1
+r7,pub7,p7,Eleven grand challenges in single-cell data science,accepted,1
+r8,pub8,p8,Computing competencies for undergraduate data science curricula,rejected,0
+r9,pub9,p9,Foundations of Data Science,accepted,1
+r10,pub10,p10,Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl,accepted,1
+r11,pub11,p11,"QIIME 2: Reproducible, interactive, scalable, and extensible microbiome data science",accepted,1
+r12,pub12,p12,Cybersecurity data science: an overview from machine learning perspective,rejected,0
+r13,pub13,p13,"How do Data Science Workers Collaborate? Roles, Workflows, and Tools",accepted,1
+r14,pub14,p14,Data Science,accepted,1
+r15,pub15,p15,"Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence",accepted,1
+r16,pub16,p16,Leveraging Data Science to Combat COVID-19: A Comprehensive Review,rejected,0
+r17,pub17,p17,Big-Data Science in Porous Materials: Materials Genomics and Machine Learning,accepted,1
+r18,pub18,p18,Spectral Methods for Data Science: A Statistical Perspective,accepted,1
+r19,pub19,p19,Finding Related Tables in Data Lakes for Interactive Data Science,accepted,1
+r20,pub20,p20,Opening practice: supporting reproducibility and critical spatial data science,rejected,0
+r21,pub21,p21,Big Earth Data science: an information framework for a sustainable planet,accepted,1
+r22,pub22,p22,Data science in economics: comprehensive review of advanced machine learning and deep learning methods,accepted,1
+r23,pub23,p23,Fixed Point Strategies in Data Science,accepted,1
+r24,pub24,p24,Heidelberg colorectal data set for surgical data science in the sensor operating room,rejected,0
+r25,pub25,p25,A new paradigm for accelerating clinical data science at Stanford Medicine,accepted,1
+r26,pub26,p26,Making data science systems work,accepted,1
+r27,pub27,p27,Data Science: Challenges and Directions,accepted,1
+r28,pub28,p28,Glossary for public health surveillance in the age of data science,rejected,0
+r29,pub29,p29,The Role of Academia in Data Science Education,accepted,1
+r30,pub30,p30,Data Science: A Comprehensive Overview,accepted,1
+r31,pub31,p31,A Fresh Look at Introductory Data Science,accepted,1
+r32,pub32,p32,Human Data Science,rejected,0
+r33,pub33,p33,The Democratization of Data Science Education,accepted,1
+r34,pub34,p34,Interrogating Data Science,accepted,1
+r35,pub35,p35,Data science applications to string theory,accepted,1
+r36,pub36,p36,Statistical Foundations of Data Science,rejected,0
+r37,pub37,p37,Data Science,accepted,1
+r38,pub38,p38,Data Science,accepted,1
+r39,pub39,p39,"How Data Science Workers Work with Data: Discovery, Capture, Curation, Design, Creation",accepted,1
+r40,pub40,p40,Process Mining for Python (PM4Py): Bridging the Gap Between Process- and Data Science,rejected,0
+r41,pub41,p41,Human-AI Collaboration in Data Science,accepted,1
+r42,pub42,p42,A Systematic Review on Supervised and Unsupervised Machine Learning Algorithms for Data Science,accepted,1
+r43,pub43,p43,Veridical data science,accepted,1
+r44,pub44,p44,Algorithmic Government: Automating Public Services and Supporting Civil Servants in using Data Science Technologies,rejected,0
+r45,pub45,p45,Outbreak analytics: a developing data science for informing the response to emerging pathogens,accepted,1
+r46,pub46,p46,"Practitioners Teaching Data Science in Industry and Academia: Expectations, Workflows, and Challenges",accepted,1
+r47,pub47,p47,From hype to reality: data science enabling personalized medicine,accepted,1
+r48,pub48,p48,Data science ethical considerations: a systematic literature review and proposed project framework,rejected,0
+r49,pub49,p49,Health Care and Precision Medicine Research: Analysis of a Scalable Data Science Platform,accepted,1
+r50,pub50,p50,Toward collaborative open data science in metabolomics using Jupyter Notebooks and cloud computing,accepted,1
+r51,pub51,p51,Data Science of the Natural Environment: A Research Roadmap,accepted,1
+r52,pub52,p52,Data science in data librarianship: Core competencies of a data librarian,rejected,0
+r53,pub53,p53,A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks,accepted,1
+r54,pub54,p54,Human-Centered Study of Data Science Work Practices,accepted,1
+r55,pub55,p55,Genomics and data science: an application within an umbrella,accepted,1
+r56,pub56,p56,Big Data and data science: A critical review of issues for educational research,rejected,0
+r57,pub57,p57,50 Years of Data Science,accepted,1
+r58,pub58,p58,Bayesian Optimization and Data Science,accepted,1
+r59,pub59,p59,Process Mining: Data Science in Action,accepted,1
+r60,pub60,p60,The Challenge of Big Data and Data Science,rejected,0
+r61,pub61,p61,Upscaling urban data science for global climate solutions,accepted,1
+r62,pub62,p62,INTRODUCTION TO DATA SCIENCE,accepted,1
+r63,pub63,p63,Data Science,accepted,1
+r64,pub64,p64,Situating Data Science: Exploring How Relationships to Data Shape Learning,rejected,0
+r65,pub65,p65,"Our data, our society, our health: A vision for inclusive and transparent health data science in the United Kingdom and beyond",accepted,1
+r66,pub66,p66,A Data Science Framework for Movement,accepted,1
+r67,pub67,p67,Geographic Data Science,accepted,1
+r68,pub68,p68,Microbiome data science,rejected,0
+r69,pub69,p69,Distance geometry and data science,accepted,1
+r70,pub70,p70,Data Science and Machine Learning,accepted,1
+r71,pub71,p71,A First Course in Data Science,accepted,1
+r72,pub72,p72,ACM Task Force on Data Science Education: Draft Report and Opportunity for Feedback,rejected,0
+r73,pub73,p73,Realizing the potential of data science,accepted,1
+r74,pub74,p74,The 9 Pitfalls of Data Science,accepted,1
+r75,pub75,p75,Data Science for Local Government,accepted,1
+r76,pub76,p76,Data science from a library and information science perspective,rejected,0
+r77,pub77,p77,Data Science Support at the Academic Library,accepted,1
+r78,pub78,p78,What is responsible and sustainable data science?,accepted,1
+r79,pub79,p79,Machine learning and data science in soft materials engineering,accepted,1
+r80,pub80,p80,Data Science as Political Action: Grounding Data Science in a Politics of Justice,rejected,0
+r81,pub81,p81,Northstar: An Interactive Data Science System,accepted,1
+r82,pub82,p82,Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data,accepted,1
+r83,pub83,p83,Open Data Science,accepted,1
+r84,pub84,p84,Data Science: the impact of statistics,rejected,0
+r85,pub85,p85,Smart Blockchain Badges for Data Science Education,accepted,1
+r86,pub86,p86,Big Data and Data Science in Critical Care.,accepted,1
+r87,pub87,p87,Searching for Hidden Perovskite Materials for Photovoltaic Systems by Combining Data Science and First Principle Calculations,accepted,1
+r88,pub88,p88,Trust in Data Science,rejected,0
+r89,pub89,p89,Data Science as Machinic Neoplatonism,accepted,1
+r90,pub90,p90,"Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions",accepted,1
+r91,pub91,p91,Network embedding in biomedical data science,accepted,1
+r92,pub92,p92,Fundamentals of Clinical Data Science,rejected,0
+r93,pub93,p93,Data science,accepted,1
+r94,pub94,p94,Deep Learning in Biomedical Data Science,accepted,1
+r95,pub95,p95,Process Mining: Data science in Action,accepted,1
+r96,pub96,p96,Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science,rejected,0
+r97,pub97,p97,Data Science for Undergraduates,accepted,1
+r98,pub98,p98,"Three principles of data science: predictability, computability, and stability (PCS)",accepted,1
+r99,pub99,p99,A Position Statement on Population Data Science: The Science of Data about People,accepted,1
+r100,pub100,p100,Performing systematic literature reviews in software engineering,rejected,0
+r101,pub101,p101,Guidelines for conducting and reporting case study research in software engineering,accepted,1
+r102,pub102,p102,Software Engineering Economics,accepted,1
+r103,pub103,p103,Software engineering: What is it?,accepted,1
+r104,pub104,p104,Software Engineering: A Practitioner's Approach,rejected,0
+r105,pub105,p105,Software Engineering for Machine Learning: A Case Study,accepted,1
+r106,pub106,p106,Guidelines for snowballing in systematic literature studies and a replication in software engineering,accepted,1
+r107,pub107,p107,Software Engineering,accepted,1
+r108,pub108,p108,Sampling in software engineering research: a critical review and guidelines,rejected,0
+r109,pub109,p109,Object-oriented software engineering - a use case driven approach,accepted,1
+r110,pub110,p110,Model-Driven Software Engineering in Practice,accepted,1
+r111,pub111,p111,Guidelines for conducting systematic mapping studies in software engineering: An update,accepted,1
+r112,pub112,p112,Experimentation in software engineering: an introduction,rejected,0
+r113,pub113,p113,A Taxonomy of Software Engineering Challenges for Machine Learning Systems: An Empirical Investigation,accepted,1
+r114,pub114,p114,Systematic literature reviews in software engineering - A systematic literature review,accepted,1
+r115,pub115,p115,Systematic Mapping Studies in Software Engineering,accepted,1
+r116,pub116,p116,Software engineering in start-up companies: An analysis of 88 experience reports,rejected,0
+r117,pub117,p117,Software Engineering of Self-adaptive Systems,accepted,1
+r118,pub118,p118,Sentiment Analysis for Software Engineering: How Far Can We Go?,accepted,1
+r119,pub119,p119,Empirical software engineering experts on the use of students and professionals in experiments,accepted,1
+r120,pub120,p120,No Silver Bullet Essence and Accidents of Software Engineering,rejected,0
+r121,pub121,p121,Smart contracts vulnerabilities: a call for blockchain software engineering?,accepted,1
+r122,pub122,p122,Continuous software engineering: A roadmap and agenda,accepted,1
+r123,pub123,p123,The ABC of Software Engineering Research,accepted,1
+r124,pub124,p124,A Benchmark Study on Sentiment Analysis for Software Engineering Research,rejected,0
+r125,pub125,p125,Word Embeddings for the Software Engineering Domain,accepted,1
+r126,pub126,p126,Introduction to Software Engineering,accepted,1
+r127,pub127,p127,Software Engineering for Machine-Learning Applications: The Road Ahead,accepted,1
+r128,pub128,p128,A Survey of App Store Analysis for Software Engineering,rejected,0
+r129,pub129,p129,Software Engineering Challenges of Deep Learning,accepted,1
+r130,pub130,p130,Design Science Methodology for Information Systems and Software Engineering,accepted,1
+r131,pub131,p131,The History of Software Engineering,accepted,1
+r132,pub132,p132,A survey of the use of crowdsourcing in software engineering,rejected,0
+r133,pub133,p133,Fundamentals of Software Engineering,accepted,1
+r134,pub134,p134,Robust Statistical Methods for Empirical Software Engineering,accepted,1
+r135,pub135,p135,Grounded Theory in Software Engineering Research: A Critical Review and Guidelines,accepted,1
+r136,pub136,p136,On negative results when using sentiment analysis tools for software engineering research,rejected,0
+r137,pub137,p137,Software Engineering,accepted,1
+r138,pub138,p138,Software Engineering Education: Converging with the Startup Industry,accepted,1
+r139,pub139,p139,Leveraging Automated Sentiment Analysis in Software Engineering,accepted,1
+r140,pub140,p140,"Model-Driven Software Engineering in Practice, Second Edition",rejected,0
+r141,pub141,p141,Experimentation in Software Engineering,accepted,1
+r142,pub142,p142,From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering,accepted,1
+r143,pub143,p143,Blockchain-Oriented Software Engineering: Challenges and New Directions,accepted,1
+r144,pub144,p144,Model-Based Software Engineering to Tame the IoT Jungle,rejected,0
+r145,pub145,p145,Key Abstractions for IoT-Oriented Software Engineering,accepted,1
+r146,pub146,p146,Cognitive Biases in Software Engineering: A Systematic Mapping Study,accepted,1
+r147,pub147,p147,Software Engineering,accepted,1
+r148,pub148,p148,Belief & Evidence in Empirical Software Engineering,rejected,0
+r149,pub149,p149,A Map of Threats to Validity of Systematic Literature Reviews in Software Engineering,accepted,1
+r150,pub150,p150,An Empirical Study of Practitioners' Perspectives on Green Software Engineering,accepted,1
+r151,pub151,p151,A framework for gamification in software engineering,accepted,1
+r152,pub152,p152,"Crowdsourcing in Software Engineering: Models, Motivations, and Challenges",rejected,0
+r153,pub153,p153,On the pragmatic design of literature studies in software engineering: an experience-based guideline,accepted,1
+r154,pub154,p154,Evidence-Based Software Engineering and Systematic Reviews,accepted,1
+r155,pub155,p155,"Speed, Data, and Ecosystems: The Future of Software Engineering",accepted,1
+r156,pub156,p156,On the use of many quality attributes for software refactoring: a many-objective search-based software engineering approach,rejected,0
+r157,pub157,p157,Open innovation in software engineering: a systematic mapping study,accepted,1
+r158,pub158,p158,The Role of Ethnographic Studies in Empirical Software Engineering,accepted,1
+r159,pub159,p159,Systems and Software Engineering,accepted,1
+r160,pub160,p160,Crossover Designs in Software Engineering Experiments: Benefits and Perils,rejected,0
+r161,pub161,p161,A discipline for software engineering,accepted,1
+r162,pub162,p162,Future Trends in Software Engineering Research for Mobile Apps,accepted,1
+r163,pub163,p163,Student Experiences Using GitHub in Software Engineering Courses: A Case Study,accepted,1
+r164,pub164,p164,Software Engineering Component Based Software Engineering,rejected,0
+r165,pub165,p165,Software-Specific Named Entity Recognition in Software Engineering Social Content,accepted,1
+r166,pub166,p166,Game development software engineering process life cycle: a systematic review,accepted,1
+r167,pub167,p167,Experimentation in Software Engineering,accepted,1
+r168,pub168,p168,Modeling in Event-B - System and Software Engineering,rejected,0
+r169,pub169,p169,Global Software Engineering: Evolution and Trends,accepted,1
+r170,pub170,p170,A Hitchhiker's guide to statistical tests for assessing randomized algorithms in software engineering,accepted,1
+r171,pub171,p171,Guide to the Software Engineering Body of Knowledge (SWEBOK(R)): Version 3.0,accepted,1
+r172,pub172,p172,ISO / IEC 25010 : 2011 Systems and software engineering — Systems and software Quality Requirements and Evaluation ( SQuaRE ) — System and software quality models,rejected,0
+r173,pub173,p173,Are Students Representatives of Professionals in Software Engineering Experiments?,accepted,1
+r174,pub174,p174,On Non-Functional Requirements in Software Engineering,accepted,1
+r175,pub175,p175,A practical guide to controlled experiments of software engineering tools with human participants,accepted,1
+r176,pub176,p176,Docker [Software engineering],rejected,0
+r177,pub177,p177,Towards a decision-making structure for selecting a research design in empirical software engineering,accepted,1
+r178,pub178,p178,The “Physics” of Notations: Toward a Scientific Basis for Constructing Visual Notations in Software Engineering,accepted,1
+r179,pub179,p179,Gamification in software engineering - A systematic mapping,accepted,1
+r180,pub180,p180,Choosing your weapons: On sentiment analysis tools for software engineering research,rejected,0
+r181,pub181,p181,Case Study Research in Software Engineering - Guidelines and Examples,accepted,1
+r182,pub182,p182,Views on Internal and External Validity in Empirical Software Engineering,accepted,1
+r183,pub183,p183,Software Engineering: A Practitioners Approach,accepted,1
+r184,pub184,p184,The (R) Evolution of social media in software engineering,rejected,0
+r185,pub185,p185,Agent-Oriented Software Engineering,accepted,1
+r186,pub186,p186,Search based software engineering for software product line engineering: a survey and directions for future work,accepted,1
+r187,pub187,p187,A systematic review of systematic review process research in software engineering,accepted,1
+r188,pub188,p188,Software Engineering Meets Control Theory,rejected,0
+r189,pub189,p189,Investigating Country Differences in Mobile App User Behavior and Challenges for Software Engineering,accepted,1
+r190,pub190,p190,Happy software developers solve problems better: psychological measurements in empirical software engineering,accepted,1
+r191,pub191,p191,An empirically based terminology and taxonomy for global software engineering,accepted,1
+r192,pub192,p192,Behavioral software engineering: A definition and systematic literature review,rejected,0
+r193,pub193,p193,Replication of empirical studies in software engineering research: a systematic mapping study,accepted,1
+r194,pub194,p194,Guidelines for Conducting Surveys in Software Engineering,accepted,1
+r195,pub195,p195,Eye-Tracking Metrics in Software Engineering,accepted,1
+r196,pub196,p196,Fundamentals of Software Engineering,rejected,0
+r197,pub197,p197,Green in Software Engineering,accepted,1
+r198,pub198,p198,"Software Product Line Engineering - Foundations, Principles, and Techniques",accepted,1
+r199,pub199,p199,Challenges for Software Engineering in Automation,accepted,1
+r200,pub200,p200,Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources,rejected,0
+r201,pub201,p201,Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists,accepted,1
+r202,pub202,p202,Bioconductor: open software development for computational biology and bioinformatics,accepted,1
+r203,pub203,p203,Biopython: freely available Python tools for computational molecular biology and bioinformatics,accepted,1
+r204,pub204,p204,"Nanopore sequencing technology, bioinformatics and applications",rejected,0
+r205,pub205,p205,A review of feature selection techniques in bioinformatics,accepted,1
+r206,pub206,p206,"Expasy, the Swiss Bioinformatics Resource Portal, as designed by its users",accepted,1
+r207,pub207,p207,A Completely Reimplemented MPI Bioinformatics Toolkit with a New HHpred Server at its Core.,accepted,1
+r208,pub208,p208,The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities,rejected,0
+r209,pub209,p209,The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes,accepted,1
+r210,pub210,p210,The nf-core framework for community-curated bioinformatics pipelines,accepted,1
+r211,pub211,p211,Protein Sequence Analysis Using the MPI Bioinformatics Toolkit,accepted,1
+r212,pub212,p212,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),rejected,0
+r213,pub213,p213,Augur: a bioinformatics toolkit for phylogenetic analyses of human pathogens,accepted,1
+r214,pub214,p214,Snakemake - a scalable bioinformatics workflow engine,accepted,1
+r215,pub215,p215,"Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center",accepted,1
+r216,pub216,p216,Human Splicing Finder: an online bioinformatics tool to predict splicing signals,rejected,0
+r217,pub217,p217,Deep learning in bioinformatics,accepted,1
+r218,pub218,p218,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),accepted,1
+r219,pub219,p219,BATMAN-TCM: a Bioinformatics Analysis Tool for Molecular mechANism of Traditional Chinese Medicine,accepted,1
+r220,pub220,p220,Piercing the dark matter: bioinformatics of long-range sequencing and mapping,rejected,0
+r221,pub221,p221,Single-cell RNA sequencing technologies and bioinformatics pipelines,accepted,1
+r222,pub222,p222,Trends in the development of miRNA bioinformatics tools,accepted,1
+r223,pub223,p223,Unipro UGENE: a unified bioinformatics toolkit,accepted,1
+r224,pub224,p224,Ensemble deep learning in bioinformatics,rejected,0
+r225,pub225,p225,Deep learning-based clustering approaches for bioinformatics,accepted,1
+r226,pub226,p226,The bioinformatics toolbox for circRNA discovery and analysis,accepted,1
+r227,pub227,p227,Bioinformatics Methods for Mass Spectrometry-Based Proteomics Data Analysis,accepted,1
+r228,pub228,p228,The EMBL-EBI bioinformatics web and programmatic tools framework,rejected,0
+r229,pub229,p229,"Deep learning in bioinformatics: introduction, application, and perspective in big data era",accepted,1
+r230,pub230,p230,Bioinformatics and Computational Biology Solutions Using R and Bioconductor,accepted,1
+r231,pub231,p231,ExPASy: SIB bioinformatics resource portal,accepted,1
+r232,pub232,p232,BMC Bioinformatics,rejected,0
+r233,pub233,p233,Perseus: A Bioinformatics Platform for Integrative Analysis of Proteomics Data in Cancer Research.,accepted,1
+r234,pub234,p234,"PATRIC, the bacterial bioinformatics database and analysis resource",accepted,1
+r235,pub235,p235,The Bio3D packages for structural bioinformatics,accepted,1
+r236,pub236,p236,Bioinformatics and Computational Tools for Next-Generation Sequencing Analysis in Clinical Genetics,rejected,0
+r237,pub237,p237,Modern deep learning in bioinformatics,accepted,1
+r238,pub238,p238,Recent Advances of Deep Learning in Bioinformatics and Computational Biology,accepted,1
+r239,pub239,p239,Programmatic access to bioinformatics tools from EMBL-EBI update: 2017,accepted,1
+r240,pub240,p240,VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases,rejected,0
+r241,pub241,p241,A new bioinformatics analysis tools framework at EMBL–EBI,accepted,1
+r242,pub242,p242,DAVID Bioinformatics Resources: expanded annotation database and novel algorithms to better extract biology from large gene lists,accepted,1
+r243,pub243,p243,The MPI bioinformatics Toolkit as an integrative platform for advanced protein sequence and structure analysis,accepted,1
+r244,pub244,p244,Bioinformatics and Computational Biology Solutions Using R and Bioconductor (Statistics for Biology and Health),rejected,0
+r245,pub245,p245,A Survey of Data Mining and Deep Learning in Bioinformatics,accepted,1
+r246,pub246,p246,Impacts of bioinformatics to medicinal chemistry.,accepted,1
+r247,pub247,p247,Taverna: a tool for the composition and enactment of bioinformatics workflows,accepted,1
+r248,pub248,p248,Data-driven advice for applying machine learning to bioinformatics problems,rejected,0
+r249,pub249,p249,Sequence clustering in bioinformatics: an empirical study,accepted,1
+r250,pub250,p250,Influenza Research Database: An integrated bioinformatics resource for influenza virus research,accepted,1
+r251,pub251,p251,"Next Generation Sequencing and Bioinformatics Methodologies for Infectious Disease Research and Public Health: Approaches, Applications, and Considerations for Development of Laboratory Capacity.",accepted,1
+r252,pub252,p252,A novel features ranking metric with application to scalable visual and bioinformatics data classification,rejected,0
+r253,pub253,p253,A brief history of bioinformatics,accepted,1
+r254,pub254,p254,An overview of topic modeling and its current applications in bioinformatics,accepted,1
+r255,pub255,p255,Protein Bioinformatics Databases and Resources.,accepted,1
+r256,pub256,p256,Metabolomics technology and bioinformatics for precision medicine,rejected,0
+r257,pub257,p257,A comparison of sequencing platforms and bioinformatics pipelines for compositional analysis of the gut microbiome,accepted,1
+r258,pub258,p258,Manual for Using Homomorphic Encryption for Bioinformatics,accepted,1
+r259,pub259,p259,A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples,accepted,1
+r260,pub260,p260,Performance measures in evaluating machine learning based bioinformatics predictors for classifications,rejected,0
+r261,pub261,p261,A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data,accepted,1
+r262,pub262,p262,Bioinformatics and peptidomics approaches to the discovery and analysis of food-derived bioactive peptides,accepted,1
+r263,pub263,p263,CLIMB (the Cloud Infrastructure for Microbial Bioinformatics): an online resource for the medical microbiology community,accepted,1
+r264,pub264,p264,Encyclopedia of Bioinformatics and Computational Biology: ABC of Bioinformatics,rejected,0
+r265,pub265,p265,An overview of bioinformatics tools for epitope prediction: Implications on vaccine development,accepted,1
+r266,pub266,p266,A novel hierarchical selective ensemble classifier with bioinformatics application,accepted,1
+r267,pub267,p267,Network Inference and Reconstruction in Bioinformatics,accepted,1
+r268,pub268,p268,Snakemake - a scalable bioinformatics workflow engine,rejected,0
+r269,pub269,p269,The Road to Metagenomics: From Microbiology to DNA Sequencing Technologies and Bioinformatics,accepted,1
+r270,pub270,p270,Text Mining for Bioinformatics Using Biomedical Literature,accepted,1
+r271,pub271,p271,A global perspective on evolving bioinformatics and data science training needs,accepted,1
+r272,pub272,p272,Feature selection methods for big data bioinformatics: A survey from the search perspective.,rejected,0
+r273,pub273,p273,Bioinformatics research at BGRS-2018,accepted,1
+r274,pub274,p274,The development and application of bioinformatics core competencies to improve bioinformatics training and education,accepted,1
+r275,pub275,p275,Aptamer Bioinformatics,accepted,1
+r276,pub276,p276,PipeCraft: Flexible open‐source toolkit for bioinformatics analysis of custom high‐throughput amplicon sequencing data,rejected,0
+r277,pub277,p277,Enabling the democratization of the genomics revolution with a fully integrated web-based bioinformatics platform,accepted,1
+r278,pub278,p278,"H3ABioNet, a sustainable pan-African bioinformatics network for human heredity and health in Africa",accepted,1
+r279,pub279,p279,The Impact of Bioinformatics on Vaccine Design and Development,accepted,1
+r280,pub280,p280,Single-Cell Transcriptomics Bioinformatics and Computational Challenges,rejected,0
+r281,pub281,p281,Systems Bioinformatics: increasing precision of computational diagnostics and therapeutics through network-based approaches,accepted,1
+r282,pub282,p282,Bioinformatics core competencies for undergraduate life sciences education,accepted,1
+r283,pub283,p283,"Review of Current Methods, Applications, and Data Management for the Bioinformatics Analysis of Whole Exome Sequencing",accepted,1
+r284,pub284,p284,Bioinformatics applications on Apache Spark,rejected,0
+r285,pub285,p285,A primer on microbial bioinformatics for nonbioinformaticians.,accepted,1
+r286,pub286,p286,Bioinformatics and Drug Discovery,accepted,1
+r287,pub287,p287,Designing a course model for distance-based online bioinformatics training in Africa: The H3ABioNet experience,accepted,1
+r288,pub288,p288,Bioinformatics for precision oncology,rejected,0
+r289,pub289,p289,The European Bioinformatics Institute in 2016: Data growth and integration,accepted,1
+r290,pub290,p290,Microarray bioinformatics in cancer- a review.,accepted,1
+r291,pub291,p291,Developing reproducible bioinformatics analysis workflows for heterogeneous computing environments to support African genomics,accepted,1
+r292,pub292,p292,Metagenomics and Bioinformatics in Microbial Ecology: Current Status and Beyond,rejected,0
+r293,pub293,p293,Reproducible bioinformatics project: a community for reproducible bioinformatics analysis pipelines,accepted,1
+r294,pub294,p294,Bioinformatics in translational drug discovery,accepted,1
+r295,pub295,p295,"Bioinformatics approaches, prospects and challenges of food bioactive peptide research",accepted,1
+r296,pub296,p296,Proceedings of the 16th Annual UT-KBRIN Bioinformatics Summit 2016: bioinformatics,rejected,0
+r297,pub297,p297,Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction,accepted,1
+r298,pub298,p298,Bioinformatics for clinical next generation sequencing.,accepted,1
+r299,pub299,p299,"Knowledge Discovery and interactive Data Mining in Bioinformatics - State-of-the-Art, future challenges and research directions",accepted,1
+r300,pub300,p300,Spectral graph theory,rejected,0
+r301,pub301,p301,Graph theory,accepted,1
+r302,pub302,p302,Algebraic Graph Theory,accepted,1
+r303,pub303,p303,Graph Theory with Applications,accepted,1
+r304,pub304,p304,Introduction to graph theory,rejected,0
+r305,pub305,p305,Spectral Graph Theory,accepted,1
+r306,pub306,p306,Application of Graph Theory for Identifying Connectivity Patterns in Human Brain Networks: A Systematic Review,accepted,1
+r307,pub307,p307,Graph Theory,accepted,1
+r308,pub308,p308,A Guide to Conquer the Biological Network Era Using Graph Theory,rejected,0
+r309,pub309,p309,Introduction to Graph Theory,accepted,1
+r310,pub310,p310,Graph Theory,accepted,1
+r311,pub311,p311,Graph theory methods: applications in brain networks,accepted,1
+r312,pub312,p312,"Electrical Networks and Algebraic Graph Theory: Models, Properties, and Applications",rejected,0
+r313,pub313,p313,"Algebraic Graph Theory: Morphisms, Monoids and Matrices",accepted,1
+r314,pub314,p314,Graph theory approaches to functional network organization in brain disorders: A critique for a brave new small-world,accepted,1
+r315,pub315,p315,Thermal Modeling in Metal Additive Manufacturing Using Graph Theory,accepted,1
+r316,pub316,p316,Novel reliable routing method for engineering of internet of vehicles based on graph theory,rejected,0
+r317,pub317,p317,Graph Theory with Applications,accepted,1
+r318,pub318,p318,A GENERAL POSITION PROBLEM IN GRAPH THEORY,accepted,1
+r319,pub319,p319,Topics in graph theory,accepted,1
+r320,pub320,p320,Graph Theory,rejected,0
+r321,pub321,p321,Graph Theory,accepted,1
+r322,pub322,p322,BRAPH: A graph theory software for the analysis of brain connectivity,accepted,1
+r323,pub323,p323,Modern Graph Theory,accepted,1
+r324,pub324,p324,Fuzzy Graph Theory,rejected,0
+r325,pub325,p325,Graph Theory and Brain Connectivity in Alzheimer’s Disease,accepted,1
+r326,pub326,p326,Graph Theory 1736 1936,accepted,1
+r327,pub327,p327,Graph Theory,accepted,1
+r328,pub328,p328,Cytoscape.js: a graph theory library for visualisation and analysis,rejected,0
+r329,pub329,p329,Study of biological networks using graph theory,accepted,1
+r330,pub330,p330,Graph Theory-Based Pinning Synchronization of Stochastic Complex Dynamical Networks,accepted,1
+r331,pub331,p331,"Network science and the human brain: Using graph theory to understand the brain and one of its hubs, the amygdala, in health and disease",accepted,1
+r332,pub332,p332,Band connectivity for topological quantum chemistry: Band structures as a graph theory problem,rejected,0
+r333,pub333,p333,Graph Theory,accepted,1
+r334,pub334,p334,Applying Graph Theory in Ecological Research,accepted,1
+r335,pub335,p335,"Handbook of graph theory, combinatorial optimization, and algorithms",accepted,1
+r336,pub336,p336,An Introduction to Bipolar Single Valued Neutrosophic Graph Theory,rejected,0
+r337,pub337,p337,Wavelets on Graphs via Spectral Graph Theory,accepted,1
+r338,pub338,p338,Basic Graph Theory,accepted,1
+r339,pub339,p339,Molecular Orbital Calculations Using Chemical Graph Theory,accepted,1
+r340,pub340,p340,A Brief Introduction to Spectral Graph Theory,rejected,0
+r341,pub341,p341,Quantum Zero-Error Source-Channel Coding and Non-Commutative Graph Theory,accepted,1
+r342,pub342,p342,Graph Theory And Sparse Matrix Computation,accepted,1
+r343,pub343,p343,Algorithmic graph theory and perfect graphs,accepted,1
+r344,pub344,p344,Three conjectures in extremal spectral graph theory,rejected,0
+r345,pub345,p345,Rational exponents in extremal graph theory,accepted,1
+r346,pub346,p346,Presurgery resting‐state local graph‐theory measures predict neurocognitive outcomes after brain surgery in temporal lobe epilepsy,accepted,1
+r347,pub347,p347,Evolutionary graph theory revisited: when is an evolutionary process equivalent to the Moran process?,accepted,1
+r348,pub348,p348,Neutrosophic Graphs: A New Dimension to Graph Theory,rejected,0
+r349,pub349,p349,Water Network Sectorization Based on Graph Theory and Energy Performance Indices,accepted,1
+r350,pub350,p350,The Fascinating World of Graph Theory,accepted,1
+r351,pub351,p351,Modern Graph Theory,accepted,1
+r352,pub352,p352,Functional connectivity and graph theory in preclinical Alzheimer's disease,rejected,0
+r353,pub353,p353,An Introduction To The Theory Of Graph Spectra,accepted,1
+r354,pub354,p354,A Survey on some Applications of Graph Theory in Cryptography,accepted,1
+r355,pub355,p355,Algorithmic graph theory and perfect graphs,accepted,1
+r356,pub356,p356,Extremal Graph Theory,rejected,0
+r357,pub357,p357,Chemical Graph Theory,accepted,1
+r358,pub358,p358,Graph theory in the geosciences,accepted,1
+r359,pub359,p359,"Handbook of Graph Theory, Second Edition",accepted,1
+r360,pub360,p360,Automatic cone photoreceptor segmentation using graph theory and dynamic programming,rejected,0
+r361,pub361,p361,"Descriptive Complexity, Canonisation, and Definable Graph Structure Theory",accepted,1
+r362,pub362,p362,A Simple Algorithm for the Graph Minor Decomposition - Logic meets Structural Graph Theory,accepted,1
+r363,pub363,p363,Complex brain networks: graph theoretical analysis of structural and functional systems,accepted,1
+r364,pub364,p364,Applying Graph theory to the Internet of Things,rejected,0
+r365,pub365,p365,Fuzzy Graph Theory: A Survey,accepted,1
+r366,pub366,p366,Graph Theory: An Introductory Course,accepted,1
+r367,pub367,p367,"Network meta‐analysis, electrical networks and graph theory",accepted,1
+r368,pub368,p368,Comparing Brain Networks of Different Size and Connectivity Density Using Graph Theory,rejected,0
+r369,pub369,p369,A First Course in Graph Theory,accepted,1
+r370,pub370,p370,"Exponential Random Graph Models for Social Networks: Theory, Methods, and Applications",accepted,1
+r371,pub371,p371,Test-Retest Reliability of Graph Theory Measures of Structural Brain Connectivity,accepted,1
+r372,pub372,p372,Link Prediction Based on Graph Neural Networks,rejected,0
+r373,pub373,p373,"Graph Theory, 4th Edition",accepted,1
+r374,pub374,p374,Graph Neural Networks Exponentially Lose Expressive Power for Node Classification,accepted,1
+r375,pub375,p375,A review of evolutionary graph theory with applications to game theory,accepted,1
+r376,pub376,p376,Recent developments in graph Ramsey theory,rejected,0
+r377,pub377,p377,Using graph theory to analyze biological networks,accepted,1
+r378,pub378,p378,Spectral Graph Theory,accepted,1
+r379,pub379,p379,Graph theory and molecular orbitals. Total φ-electron energy of alternant hydrocarbons,accepted,1
+r380,pub380,p380,"An $L^p$ theory of sparse graph convergence I: Limits, sparse random graph models, and power law distributions",rejected,0
+r381,pub381,p381,Active semi-supervised learning using sampling theory for graph signals,accepted,1
+r382,pub382,p382,"An $L^{p}$ theory of sparse graph convergence II: LD convergence, quotients and right convergence",accepted,1
+r383,pub383,p383,Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.,accepted,1
+r384,pub384,p384,"Algorithms, Graph Theory, and Linear Equations in Laplacian Matrices",rejected,0
+r385,pub385,p385,Applications of Graph Theory and Network Science to Transit Network Design,accepted,1
+r386,pub386,p386,Some new results in extremal graph theory,accepted,1
+r387,pub387,p387,Robust automatic segmentation of corneal layer boundaries in SDOCT images using graph theory and dynamic programming,accepted,1
+r388,pub388,p388,Applications of Graph Theory in Computer Science,rejected,0
+r389,pub389,p389,Systemic Risk in Energy Derivative Markets: A Graph-Theory Analysis,accepted,1
+r390,pub390,p390,Local Higher-Order Graph Clustering,accepted,1
+r391,pub391,p391,"Graph Theory, Combinatorics and Algorithms: Interdisciplinary Applications",accepted,1
+r392,pub392,p392,Graph Embedding and Extensions: A General Framework for Dimensionality Reduction,rejected,0
+r393,pub393,p393,Topological Graph Theory,accepted,1
+r394,pub394,p394,Handbook of graph theory,accepted,1
+r395,pub395,p395,Introduction to Graph and Hypergraph Theory,accepted,1
+r396,pub396,p396,A graph‐theory algorithm for rapid protein side‐chain prediction,rejected,0
+r397,pub397,p397,Elements of Information Theory,accepted,1
+r398,pub398,p398,Graph Theory,accepted,1
+r399,pub399,p399,APPLICATIONS OF GRAPH THEORY IN COMPUTER SCIENCE AN OVERVIEW,accepted,1
+r400,pub400,p400,The Cambridge Structural Database,rejected,0
+r401,pub401,p401,The PRIDE database and related tools and resources in 2019: improving support for quantification data,accepted,1
+r402,pub402,p402,"MIMIC-III, a freely accessible critical care database",accepted,1
+r403,pub403,p403,Database resources of the National Center for Biotechnology Information,accepted,1
+r404,pub404,p404,DrugBank 5.0: a major update to the DrugBank database for 2018,rejected,0
+r405,pub405,p405,"The STRING database in 2017: quality-controlled protein–protein association networks, made broadly accessible",accepted,1
+r406,pub406,p406,Introducing EzBioCloud: a taxonomically united database of 16S rRNA gene sequences and whole-genome assemblies,accepted,1
+r407,pub407,p407,The Pfam protein families database: towards a more sustainable future,accepted,1
+r408,pub408,p408,Pfam: the protein families database,rejected,0
+r409,pub409,p409,The SILVA ribosomal RNA gene database project: improved data processing and web-based tools,accepted,1
+r410,pub410,p410,The Molecular Signatures Database Hallmark Gene Set Collection,accepted,1
+r411,pub411,p411,ImageNet: A large-scale hierarchical image database,accepted,1
+r412,pub412,p412,Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.,rejected,0
+r413,pub413,p413,The carbohydrate-active enzymes database (CAZy) in 2013,accepted,1
+r414,pub414,p414,Places: A 10 Million Image Database for Scene Recognition,accepted,1
+r415,pub415,p415,The Pfam protein families database in 2019,accepted,1
+r416,pub416,p416,Introducing EzTaxon-e: a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species.,rejected,0
+r417,pub417,p417,Pfam: The protein families database in 2021,accepted,1
+r418,pub418,p418,"Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation",accepted,1
+r419,pub419,p419,WordNet : an electronic lexical database,accepted,1
+r420,pub420,p420,WordNet: A Lexical Database for English,rejected,0
+r421,pub421,p421,HMDB 4.0: the human metabolome database for 2018,accepted,1
+r422,pub422,p422,A global database of COVID-19 vaccinations,accepted,1
+r423,pub423,p423,GTDB-Tk: a toolkit to classify genomes with the Genome Taxonomy Database,accepted,1
+r424,pub424,p424,2016 update of the PRIDE database and its related tools,rejected,0
+r425,pub425,p425,Labeled Faces in the Wild: A Database forStudying Face Recognition in Unconstrained Environments,accepted,1
+r426,pub426,p426,The Cambridge Structural Database: a quarter of a million crystal structures and rising.,accepted,1
+r427,pub427,p427,"Greengenes, a Chimera-Checked 16S rRNA Gene Database and Workbench Compatible with ARB",accepted,1
+r428,pub428,p428,CARD 2020: antibiotic resistome surveillance with the comprehensive antibiotic resistance database,rejected,0
+r429,pub429,p429,Freebase: a collaboratively created graph database for structuring human knowledge,accepted,1
+r430,pub430,p430,The Carbohydrate-Active EnZymes database (CAZy): an expert resource for Glycogenomics,accepted,1
+r431,pub431,p431,CDD/SPARCLE: the conserved domain database in 2020,accepted,1
+r432,pub432,p432,The Ribosomal Database Project: improved alignments and new tools for rRNA analysis,rejected,0
+r433,pub433,p433,An improved method of constructing a database of monthly climate observations and associated high‐resolution grids,accepted,1
+r434,pub434,p434,"DAVID: Database for Annotation, Visualization, and Integrated Discovery",accepted,1
+r435,pub435,p435,The ecoinvent database version 3 (part I): overview and methodology,accepted,1
+r436,pub436,p436,Empirical statistical model to estimate the accuracy of peptide identifications made by MS/MS and database search.,rejected,0
+r437,pub437,p437,Ribosomal Database Project: data and tools for high throughput rRNA analysis,accepted,1
+r438,pub438,p438,The mnist database of handwritten digits,accepted,1
+r439,pub439,p439,The InterPro protein families and domains database: 20 years on,accepted,1
+r440,pub440,p440,"The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored",rejected,0
+r441,pub441,p441,Learning Deep Features for Scene Recognition using Places Database,accepted,1
+r442,pub442,p442,SCOP: a structural classification of proteins database for the investigation of sequences and structures.,accepted,1
+r443,pub443,p443,The Molecular Signatures Database (MSigDB) hallmark gene set collection.,accepted,1
+r444,pub444,p444,A fast quantum mechanical algorithm for database search,rejected,0
+r445,pub445,p445,dbSNP: the NCBI database of genetic variation,accepted,1
+r446,pub446,p446,The COG database: an updated version includes eukaryotes,accepted,1
+r447,pub447,p447,Molecular signatures database (MSigDB) 3.0,accepted,1
+r448,pub448,p448,Introduction to WordNet: An On-line Lexical Database,rejected,0
+r449,pub449,p449,The Pfam protein families database,accepted,1
+r450,pub450,p450,The HITRAN 2008 molecular spectroscopic database,accepted,1
+r451,pub451,p451,CDD: NCBI's conserved domain database,accepted,1
+r452,pub452,p452,HMDB: A large video database for human motion recognition,rejected,0
+r453,pub453,p453,"PlantCARE, a database of plant cis-acting regulatory elements and a portal to tools for in silico analysis of promoter sequences",accepted,1
+r454,pub454,p454,Fundamentals of Database Systems,accepted,1
+r455,pub455,p455,The COG database: a tool for genome-scale analysis of protein functions and evolution,accepted,1
+r456,pub456,p456,"Repbase Update, a database of repetitive elements in eukaryotic genomes",rejected,0
+r457,pub457,p457,TCMSP: a database of systems pharmacology for drug discovery from herbal medicines,accepted,1
+r458,pub458,p458,"NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins",accepted,1
+r459,pub459,p459,LabelMe: A Database and Web-Based Tool for Image Annotation,accepted,1
+r460,pub460,p460,IPD-IMGT/HLA Database,rejected,0
+r461,pub461,p461,CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database,accepted,1
+r462,pub462,p462,The AR face database,accepted,1
+r463,pub463,p463,The ChEMBL database in 2017,accepted,1
+r464,pub464,p464,SUN database: Large-scale scene recognition from abbey to zoo,rejected,0
+r465,pub465,p465,CDD: a Conserved Domain Database for the functional annotation of proteins,accepted,1
+r466,pub466,p466,Plant cis-acting regulatory DNA elements (PLACE) database: 1999,accepted,1
+r467,pub467,p467,"Repbase Update, a database of eukaryotic repetitive elements",accepted,1
+r468,pub468,p468,DEAP: A Database for Emotion Analysis ;Using Physiological Signals,rejected,0
+r469,pub469,p469,ChEMBL: a large-scale bioactivity database for drug discovery,accepted,1
+r470,pub470,p470,Human Protein Reference Database—2009 update,accepted,1
+r471,pub471,p471,New tools in comparative political economy : the database of political institutions,accepted,1
+r472,pub472,p472,miRDB: an online database for prediction of functional microRNA targets,rejected,0
+r473,pub473,p473,The impact of the MIT-BIH Arrhythmia Database,accepted,1
+r474,pub474,p474,The HITRAN2012 molecular spectroscopic database,accepted,1
+r475,pub475,p475,Protein backbone angle restraints from searching a database for chemical shift and sequence homology,accepted,1
+r476,pub476,p476,The Immune Epitope Database (IEDB): 2018 update,rejected,0
+r477,pub477,p477,Database resources of the National Center for Biotechnology Information: update,accepted,1
+r478,pub478,p478,The BioGRID interaction database: 2019 update,accepted,1
+r479,pub479,p479,Comprehensive database for facial expression analysis,accepted,1
+r480,pub480,p480,The Standardized World Income Inequality Database,rejected,0
+r481,pub481,p481,A Database and Evaluation Methodology for Optical Flow,accepted,1
+r482,pub482,p482,ONCOMINE: a cancer microarray database and integrated data-mining platform.,accepted,1
+r483,pub483,p483,The Cambridge Structural Database in retrospect and prospect.,accepted,1
+r484,pub484,p484,The Comparative Toxicogenomics Database: update 2019,rejected,0
+r485,pub485,p485,HMDB 3.0—The Human Metabolome Database in 2013,accepted,1
+r486,pub486,p486,"The eICU Collaborative Research Database, a freely available multi-center database for critical care research",accepted,1
+r487,pub487,p487,MODOMICS: a database of RNA modification pathways. 2017 update,accepted,1
+r488,pub488,p488,The IPD and IMGT/HLA database: allele variant databases,rejected,0
+r489,pub489,p489,The Pfam protein families database,accepted,1
+r490,pub490,p490,GENEVESTIGATOR. Arabidopsis Microarray Database and Analysis Toolbox1[w],accepted,1
+r491,pub491,p491,The FERET database and evaluation procedure for face-recognition algorithms,accepted,1
+r492,pub492,p492,The Gene Expression Omnibus Database,rejected,0
+r493,pub493,p493,APD3: the antimicrobial peptide database as a tool for research and education,accepted,1
+r494,pub494,p494,IEMOCAP: interactive emotional dyadic motion capture database,accepted,1
+r495,pub495,p495,TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions,accepted,1
+r496,pub496,p496,"The MEROPS database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the PANTHER database",rejected,0
+r497,pub497,p497,"Image database TID2013: Peculiarities, results and perspectives",accepted,1
+r498,pub498,p498,A New Database on Financial Development and Structure,accepted,1
+r499,pub499,p499,Presentation and validation of the Radboud Faces Database,accepted,1
