@@ -1,0 +1,501 @@
+authorRef,Name,reviewID,publicationID,paperID,title,reviewDecision,reviewDecisionBoolean,authorID
+57989947600,Yang K.,r362,pub212,p212,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),rejected,0,a15795
+57555731100,Liu J.,r73,pub324,p324,Fuzzy Graph Theory,accepted,1,a860
+57896155800,Feng W.H.,r375,pub298,p298,Bioinformatics for clinical next generation sequencing.,accepted,1,a103694
+56900416800,Dong W.,r155,pub82,p82,Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data,accepted,1,a76820
+58195180100,Singh S.V.P.,r104,pub442,p442,SCOP: a structural classification of proteins database for the investigation of sequences and structures.,rejected,0,a54886
+35180753400,Wang L.,r395,pub314,p314,Graph theory approaches to functional network organization in brain disorders: A critique for a brave new small-world,accepted,1,a6265
+57195637503,Liu T.,r378,pub421,p421,HMDB 4.0: the human metabolome database for 2018,accepted,1,a82386
+55941305300,Pandey K.K.,r124,pub181,p181,Case Study Research in Software Engineering - Guidelines and Examples,accepted,1,a37194
+36243772900,Li C.,r68,pub400,p400,The Cambridge Structural Database,rejected,0,a87498
+58246265000,Wang T.,r451,pub42,p42,A Systematic Review on Supervised and Unsupervised Machine Learning Algorithms for Data Science,accepted,1,a44131
+57224075141,Schmitt S.,r9,pub166,p166,Game development software engineering process life cycle: a systematic review,accepted,1,a60263
+56760495800,Boyko I.,r194,pub308,p308,A Guide to Conquer the Biological Network Era Using Graph Theory,accepted,1,a16023
+57216586399,Ren J.,r407,pub148,p148,Belief & Evidence in Empirical Software Engineering,rejected,0,a41090
+57207264488,Wang M.,r84,pub416,p416,Introducing EzTaxon-e: a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species.,accepted,1,a67221
+58747265300,Wang X.L.,r485,pub392,p392,Graph Embedding and Extensions: A General Framework for Dimensionality Reduction,accepted,1,a64820
+56503961500,Schaich C.L.,r420,pub367,p367,"Network meta‐analysis, electrical networks and graph theory",accepted,1,a769
+57192940746,Hou Y.,r496,pub47,p47,From hype to reality: data science enabling personalized medicine,rejected,0,a59735
+57205391306,Jinxiu L.,r30,pub224,p224,Ensemble deep learning in bioinformatics,accepted,1,a62955
+57191347407,Kuai X.,r316,pub369,p369,A First Course in Graph Theory,accepted,1,a64925
+58681935400,Zhang T.,r409,pub56,p56,Big Data and data science: A critical review of issues for educational research,accepted,1,a67969
+57212874224,Zhang P.,r491,pub347,p347,Evolutionary graph theory revisited: when is an evolutionary process equivalent to the Moran process?,rejected,0,a5311
+57215835646,Xin Z.,r492,pub484,p484,The Comparative Toxicogenomics Database: update 2019,accepted,1,a103355
+58017034200,Wang M.,r280,pub274,p274,The development and application of bioinformatics core competencies to improve bioinformatics training and education,accepted,1,a104724
+57208450491,Galinhas B.,r356,pub164,p164,Software Engineering Component Based Software Engineering,accepted,1,a83104
+58844289500,Fan J.,r76,pub41,p41,Human-AI Collaboration in Data Science,rejected,0,a53707
+58248633100,Fu Y.,r462,pub460,p460,IPD-IMGT/HLA Database,accepted,1,a85305
+58315639300,Wen R.,r498,pub407,p407,The Pfam protein families database: towards a more sustainable future,accepted,1,a28693
+57647867600,Yu T.,r211,pub412,p412,Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.,accepted,1,a71932
+58160358700,Murray-Dean J.,r101,pub77,p77,Data Science Support at the Academic Library,rejected,0,a93016
+57207416205,Zou X.,r334,pub70,p70,Data Science and Machine Learning,accepted,1,a25658
+58737334600,Ma Y.,r402,pub243,p243,The MPI bioinformatics Toolkit as an integrative platform for advanced protein sequence and structure analysis,accepted,1,a84478
+7404541194,Liang J.,r336,pub65,p65,"Our data, our society, our health: A vision for inclusive and transparent health data science in the United Kingdom and beyond",accepted,1,a18431
+57736316200,Yu L.,r441,pub108,p108,Sampling in software engineering research: a critical review and guidelines,rejected,0,a2747
+6603256916,Tulliani J.-M.,r173,pub468,p468,DEAP: A Database for Emotion Analysis ;Using Physiological Signals,accepted,1,a59150
+56175594200,Wang F.,r2,pub382,p382,"An $L^{p}$ theory of sparse graph convergence II: LD convergence, quotients and right convergence",accepted,1,a65725
+57224761026,Deng B.,r333,pub111,p111,Guidelines for conducting systematic mapping studies in software engineering: An update,accepted,1,a84654
+57194679401,Ji S.,r410,pub341,p341,Quantum Zero-Error Source-Channel Coding and Non-Commutative Graph Theory,rejected,0,a35773
+58644856900,Chan M.,r70,pub368,p368,Comparing Brain Networks of Different Size and Connectivity Density Using Graph Theory,accepted,1,a67435
+24821987300,Chen Q.,r209,pub476,p476,The Immune Epitope Database (IEDB): 2018 update,accepted,1,a56886
+58837979000,Wu X.H.,r63,pub35,p35,Data science applications to string theory,accepted,1,a66803
+56900228400,Luo X.,r434,pub90,p90,"Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions",rejected,0,a31551
+58292196700,Zhang X.,r93,pub438,p438,The mnist database of handwritten digits,accepted,1,a11394
+58636310700,Chen H.,r486,pub124,p124,A Benchmark Study on Sentiment Analysis for Software Engineering Research,accepted,1,a69092
+15074237600,Pan Q.,r185,pub117,p117,Software Engineering of Self-adaptive Systems,accepted,1,a3890
+35247384000,Deng J.,r33,pub127,p127,Software Engineering for Machine-Learning Applications: The Road Ahead,rejected,0,a41606
+57736318100,Lin P.,r77,pub446,p446,The COG database: an updated version includes eukaryotes,accepted,1,a96276
+57211253919,Wei Y.,r0,pub359,p359,"Handbook of Graph Theory, Second Edition",accepted,1,a80038
+58311586300,Zhang A.,r11,pub68,p68,Microbiome data science,accepted,1,a87313
+57220575299,Bello I.T.,r416,pub384,p384,"Algorithms, Graph Theory, and Linear Equations in Laplacian Matrices",rejected,0,a10627
+58851797600,Zhang S.,r22,pub179,p179,Gamification in software engineering - A systematic mapping,accepted,1,a8792
+58281302700,Peng W.,r72,pub435,p435,The ecoinvent database version 3 (part I): overview and methodology,accepted,1,a73969
+57193792645,He J.-X.,r182,pub158,p158,The Role of Ethnographic Studies in Empirical Software Engineering,accepted,1,a43001
+58747986000,Li J.S.,r131,pub29,p29,The Role of Academia in Data Science Education,rejected,0,a76552
+57211872089,Qi Y.,r411,pub128,p128,A Survey of App Store Analysis for Software Engineering,accepted,1,a23897
+8960192600,Bin Muzaffar S.,r193,pub84,p84,Data Science: the impact of statistics,accepted,1,a68148
+58155463600,Lin X.S.,r55,pub216,p216,Human Splicing Finder: an online bioinformatics tool to predict splicing signals,accepted,1,a23483
+55642439000,Li L.,r148,pub134,p134,Robust Statistical Methods for Empirical Software Engineering,rejected,0,a48555
+58837295500,Calvet T.P.,r18,pub126,p126,Introduction to Software Engineering,accepted,1,a17159
+57190739366,Wang M.,r204,pub443,p443,The Molecular Signatures Database (MSigDB) hallmark gene set collection.,accepted,1,a80077
+57199451156,Chen M.,r78,pub237,p237,Modern deep learning in bioinformatics,accepted,1,a35920
+57217719163,Bentley J.D.,r495,pub206,p206,"Expasy, the Swiss Bioinformatics Resource Portal, as designed by its users",rejected,0,a92067
+58726746900,Cao J.,r262,pub34,p34,Interrogating Data Science,accepted,1,a67121
+7403916778,Green R.,r323,pub340,p340,A Brief Introduction to Spectral Graph Theory,accepted,1,a69479
+58209554000,Cai J.,r484,pub9,p9,Foundations of Data Science,accepted,1,a89475
+57288691800,Zhong Q.,r79,pub27,p27,Data Science: Challenges and Directions,rejected,0,a19457
+58689755000,Shen Y.,r39,pub495,p495,TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions,accepted,1,a66557
+57911337700,Shi Y.,r452,pub319,p319,Topics in graph theory,accepted,1,a77189
+14629709300,Zhang C.,r46,pub330,p330,Graph Theory-Based Pinning Synchronization of Stochastic Complex Dynamical Networks,accepted,1,a78953
+58762643700,Han D.,r238,pub278,p278,"H3ABioNet, a sustainable pan-African bioinformatics network for human heredity and health in Africa",rejected,0,a52995
+57218524486,Wang H.,r392,pub93,p93,Data science,accepted,1,a40757
+57189447961,Linga P.,r352,pub420,p420,WordNet: A Lexical Database for English,accepted,1,a9692
+56205730400,Arnold H.,r341,pub69,p69,Distance geometry and data science,accepted,1,a45758
+58251958700,Wang X.,r277,pub361,p361,"Descriptive Complexity, Canonisation, and Definable Graph Structure Theory",rejected,0,a72409
+24825049900,Nettelbeck H.,r290,pub50,p50,Toward collaborative open data science in metabolomics using Jupyter Notebooks and cloud computing,accepted,1,a71211
+58838677900,Xu J.,r317,pub110,p110,Model-Driven Software Engineering in Practice,accepted,1,a65697
+57193243053,Li G.,r304,pub170,p170,A Hitchhiker's guide to statistical tests for assessing randomized algorithms in software engineering,accepted,1,a37065
+57209072530,Bischi M.,r268,pub227,p227,Bioinformatics Methods for Mass Spectrometry-Based Proteomics Data Analysis,rejected,0,a92093
+57223974724,Tang J.,r69,pub482,p482,ONCOMINE: a cancer microarray database and integrated data-mining platform.,accepted,1,a99299
+54393715300,McCully C.,r456,pub86,p86,Big Data and Data Science in Critical Care.,accepted,1,a32606
+23065608300,Chen J.,r490,pub54,p54,Human-Centered Study of Data Science Work Practices,accepted,1,a11534
+57737192400,Tian H.,r154,pub18,p18,Spectral Methods for Data Science: A Statistical Perspective,rejected,0,a94663
+58132407000,Zhang T.,r82,pub150,p150,An Empirical Study of Practitioners' Perspectives on Green Software Engineering,accepted,1,a40397
+57191696637,Li Q.,r478,pub199,p199,Challenges for Software Engineering in Automation,accepted,1,a91387
+14066118100,Hu Z.,r172,pub426,p426,The Cambridge Structural Database: a quarter of a million crystal structures and rising.,accepted,1,a1016
+56505742900,Huang S.,r321,pub264,p264,Encyclopedia of Bioinformatics and Computational Biology: ABC of Bioinformatics,rejected,0,a89789
+58068851300,Wu H.,r90,pub499,p499,Presentation and validation of the Radboud Faces Database,accepted,1,a55591
+57217278611,Zhou X.,r180,pub155,p155,"Speed, Data, and Ecosystems: The Future of Software Engineering",accepted,1,a89812
+57918319800,Zhao Z.,r415,pub99,p99,A Position Statement on Population Data Science: The Science of Data about People,accepted,1,a23247
+55737186600,Li F.,r312,pub13,p13,"How do Data Science Workers Collaborate? Roles, Workflows, and Tools",rejected,0,a24300
+58738976700,Liu C.,r278,pub254,p254,An overview of topic modeling and its current applications in bioinformatics,accepted,1,a74065
+58294285300,Xu W.R.,r382,pub290,p290,Microarray bioinformatics in cancer- a review.,accepted,1,a82798
+56581444700,Mu Q.,r473,pub374,p374,Graph Neural Networks Exponentially Lose Expressive Power for Node Classification,accepted,1,a9268
+57199209295,Wang R.,r453,pub262,p262,Bioinformatics and peptidomics approaches to the discovery and analysis of food-derived bioactive peptides,rejected,0,a86807
+57458520300,Zhang S.,r324,pub228,p228,The EMBL-EBI bioinformatics web and programmatic tools framework,accepted,1,a12185
+57210435095,Wang H.,r432,pub397,p397,Elements of Information Theory,accepted,1,a63704
+6603398169,Jaramillo T.F.,r347,pub333,p333,Graph Theory,accepted,1,a86779
+56542267200,Pan X.,r86,pub245,p245,A Survey of Data Mining and Deep Learning in Bioinformatics,rejected,0,a39099
+57219088307,Lyu H.,r75,pub403,p403,Database resources of the National Center for Biotechnology Information,accepted,1,a8571
+57753070400,Chen K.,r439,pub289,p289,The European Bioinformatics Institute in 2016: Data growth and integration,accepted,1,a105512
+58258433700,Faraj Mursal S.N.,r15,pub316,p316,Novel reliable routing method for engineering of internet of vehicles based on graph theory,accepted,1,a38044
+58869952500,Li X.,r249,pub351,p351,Modern Graph Theory,rejected,0,a51214
+55493073400,Sun L.,r386,pub142,p142,From Word Embeddings to Document Similarities for Improved Information Retrieval in Software Engineering,accepted,1,a61228
+56108876600,Wang X.,r19,pub313,p313,"Algebraic Graph Theory: Morphisms, Monoids and Matrices",accepted,1,a48984
+53867664800,Zheng Y.-Q.,r322,pub383,p383,Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.,accepted,1,a40774
+58759736400,Zhou X.,r332,pub137,p137,Software Engineering,rejected,0,a2568
+49861280400,De Jong A.,r56,pub286,p286,Bioinformatics and Drug Discovery,accepted,1,a62592
+55965342300,Sun X.,r301,pub255,p255,Protein Bioinformatics Databases and Resources.,accepted,1,a67563
+57944014900,Ning H.,r229,pub285,p285,A primer on microbial bioinformatics for nonbioinformaticians.,accepted,1,a2695
+8357504300,Sugimoto H.,r331,pub143,p143,Blockchain-Oriented Software Engineering: Challenges and New Directions,rejected,0,a48190
+55801097900,Liu Y.,r132,pub432,p432,The Ribosomal Database Project: improved alignments and new tools for rRNA analysis,accepted,1,a5258
+9133213700,Wang X.,r137,pub172,p172,ISO / IEC 25010 : 2011 Systems and software engineering — Systems and software Quality Requirements and Evaluation ( SQuaRE ) — System and software quality models,accepted,1,a87538
+55681755900,Zhao H.,r424,pub153,p153,On the pragmatic design of literature studies in software engineering: an experience-based guideline,accepted,1,a39504
+6507502480,Gyasi-Agyei A.,r335,pub387,p387,Robust automatic segmentation of corneal layer boundaries in SDOCT images using graph theory and dynamic programming,rejected,0,a33159
+7404984370,He J.,r25,pub433,p433,An improved method of constructing a database of monthly climate observations and associated high‐resolution grids,accepted,1,a13986
+57194010467,Wang Y.,r465,pub366,p366,Graph Theory: An Introductory Course,accepted,1,a61858
+57209890305,Borsuk J.T.,r281,pub334,p334,Applying Graph Theory in Ecological Research,accepted,1,a12666
+57208213752,Sampedro G.A.,r247,pub213,p213,Augur: a bioinformatics toolkit for phylogenetic analyses of human pathogens,rejected,0,a38660
+58862989700,Ma W.,r237,pub66,p66,A Data Science Framework for Movement,accepted,1,a3561
+57204711491,Huang D.,r117,pub481,p481,A Database and Evaluation Methodology for Optical Flow,accepted,1,a26854
+57221286405,Shah A.,r42,pub455,p455,The COG database: a tool for genome-scale analysis of protein functions and evolution,accepted,1,a64505
+57202950987,Fan S.,r220,pub103,p103,Software engineering: What is it?,rejected,0,a104488
+57205494604,Li C.,r176,pub48,p48,Data science ethical considerations: a systematic literature review and proposed project framework,accepted,1,a52251
+55557810400,Ding Y.,r320,pub43,p43,Veridical data science,accepted,1,a22662
+57193255076,Sastre J.,r153,pub454,p454,Fundamentals of Database Systems,accepted,1,a8392
+55387040600,Yuan J.,r231,pub105,p105,Software Engineering for Machine Learning: A Case Study,rejected,0,a30535
+57889255800,Yao Z.,r227,pub402,p402,"MIMIC-III, a freely accessible critical care database",accepted,1,a78603
+58765602700,Yang C.,r418,pub211,p211,Protein Sequence Analysis Using the MPI Bioinformatics Toolkit,accepted,1,a52256
+35486290400,Wang Y.,r203,pub338,p338,Basic Graph Theory,accepted,1,a89135
+56044310100,Tang J.,r126,pub424,p424,2016 update of the PRIDE database and its related tools,rejected,0,a35222
+58604862400,Li L.,r329,pub344,p344,Three conjectures in extremal spectral graph theory,accepted,1,a77373
+57188569196,Chen M.,r31,pub131,p131,The History of Software Engineering,accepted,1,a79575
+56488526500,Freundlich J.,r113,pub102,p102,Software Engineering Economics,accepted,1,a96354
+58620686700,Xie J.,r471,pub307,p307,Graph Theory,rejected,0,a84651
+57444307300,Wei H.,r271,pub296,p296,Proceedings of the 16th Annual UT-KBRIN Bioinformatics Summit 2016: bioinformatics,accepted,1,a63335
+57204969344,Saritha B.,r140,pub149,p149,A Map of Threats to Validity of Systematic Literature Reviews in Software Engineering,accepted,1,a10965
+58128325100,Tian Y.,r57,pub1,p1,High-Dimensional Probability: An Introduction with Applications in Data Science,accepted,1,a24538
+55628583368,Liu L.,r192,pub96,p96,Evaluation of a Tree-based Pipeline Optimization Tool for Automating Data Science,rejected,0,a70592
+57188813352,Ma W.,r24,pub279,p279,The Impact of Bioinformatics on Vaccine Design and Development,accepted,1,a98018
+56398460200,Vai I.,r17,pub85,p85,Smart Blockchain Badges for Data Science Education,accepted,1,a8110
+58872166200,Liu Y.,r265,pub390,p390,Local Higher-Order Graph Clustering,accepted,1,a79309
+58839067900,Mamuzic J.,r66,pub79,p79,Machine learning and data science in soft materials engineering,rejected,0,a27266
+58762850400,Hong S.,r208,pub231,p231,ExPASy: SIB bioinformatics resource portal,accepted,1,a52992
+35796292500,Ristiana R.,r480,pub120,p120,No Silver Bullet Essence and Accidents of Software Engineering,accepted,1,a82948
+57211841896,Sun Z.,r94,pub75,p75,Data Science for Local Government,accepted,1,a98806
+6701361478,Sakellariou R.,r253,pub40,p40,Process Mining for Python (PM4Py): Bridging the Gap Between Process- and Data Science,rejected,0,a6910
+57207907446,Gouskos L.,r266,pub263,p263,CLIMB (the Cloud Infrastructure for Microbial Bioinformatics): an online resource for the medical microbiology community,accepted,1,a90982
+58887558200,Gao L.,r23,pub151,p151,A framework for gamification in software engineering,accepted,1,a206
+55719722300,Wang Z.,r222,pub135,p135,Grounded Theory in Software Engineering Research: A Critical Review and Guidelines,accepted,1,a87054
+58184789500,Wu J.,r261,pub101,p101,Guidelines for conducting and reporting case study research in software engineering,rejected,0,a87897
+7006359697,Geng C.Q.,r430,pub395,p395,Introduction to Graph and Hypergraph Theory,accepted,1,a23419
+55574185179,Godlewski J.,r5,pub306,p306,Application of Graph Theory for Identifying Connectivity Patterns in Human Brain Networks: A Systematic Review,accepted,1,a50636
+57216293005,Li S.Y.,r116,pub418,p418,"Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation",accepted,1,a50015
+57219722047,Li S.,r45,pub233,p233,Perseus: A Bioinformatics Platform for Integrative Analysis of Proteomics Data in Cancer Research.,rejected,0,a54268
+58264989600,Zhaoxue T.,r16,pub94,p94,Deep Learning in Biomedical Data Science,accepted,1,a87939
+58900723700,Jia Z.,r463,pub109,p109,Object-oriented software engineering - a use case driven approach,accepted,1,a18141
+36652504800,Fan Z.,r357,pub299,p299,"Knowledge Discovery and interactive Data Mining in Bioinformatics - State-of-the-Art, future challenges and research directions",accepted,1,a80356
+57733134500,Wen X.,r3,pub485,p485,HMDB 3.0—The Human Metabolome Database in 2013,rejected,0,a71910
+57231744800,Tian W.,r218,pub210,p210,The nf-core framework for community-curated bioinformatics pipelines,accepted,1,a56044
+58670809300,Zhang Y.,r406,pub219,p219,BATMAN-TCM: a Bioinformatics Analysis Tool for Molecular mechANism of Traditional Chinese Medicine,accepted,1,a67214
+57217354026,Zhu W.,r60,pub201,p201,Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists,accepted,1,a33827
+48161853100,Wu A.,r110,pub200,p200,Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources,rejected,0,a55820
+57387800400,Kiani S.,r318,pub138,p138,Software Engineering Education: Converging with the Startup Industry,accepted,1,a62623
+57719389800,Lian L.,r429,pub193,p193,Replication of empirical studies in software engineering research: a systematic mapping study,accepted,1,a81734
+57423613900,Chen X.,r29,pub87,p87,Searching for Hidden Perovskite Materials for Photovoltaic Systems by Combining Data Science and First Principle Calculations,accepted,1,a75450
+54979231000,Marleau G.-D.,r438,pub275,p275,Aptamer Bioinformatics,rejected,0,a93426
+58607328000,Zhang L.X.,r444,pub116,p116,Software engineering in start-up companies: An analysis of 88 experience reports,accepted,1,a22299
+7005728210,Latham D.W.,r26,pub406,p406,Introducing EzBioCloud: a taxonomically united database of 16S rRNA gene sequences and whole-genome assemblies,accepted,1,a43585
+55341761300,Liu P.,r7,pub230,p230,Bioinformatics and Computational Biology Solutions Using R and Bioconductor,accepted,1,a64044
+58632068900,Basiri S.,r454,pub354,p354,A Survey on some Applications of Graph Theory in Cryptography,rejected,0,a42557
+55881825100,Wang J.,r108,pub251,p251,"Next Generation Sequencing and Bioinformatics Methodologies for Infectious Disease Research and Public Health: Approaches, Applications, and Considerations for Development of Laboratory Capacity.",accepted,1,a49080
+22636541700,Zhang Y.,r37,pub281,p281,Systems Bioinformatics: increasing precision of computational diagnostics and therapeutics through network-based approaches,accepted,1,a2693
+58510506800,Bi X.,r157,pub272,p272,Feature selection methods for big data bioinformatics: A survey from the search perspective.,accepted,1,a95003
+54586150900,Vargas C.J.,r467,pub414,p414,Places: A 10 Million Image Database for Scene Recognition,rejected,0,a95259
+22936535500,Zhu Y.,r118,pub276,p276,PipeCraft: Flexible open‐source toolkit for bioinformatics analysis of custom high‐throughput amplicon sequencing data,accepted,1,a69163
+57216606137,Cui T.,r114,pub291,p291,Developing reproducible bioinformatics analysis workflows for heterogeneous computing environments to support African genomics,accepted,1,a25939
+58864033800,Wang H.,r175,pub450,p450,The HITRAN 2008 molecular spectroscopic database,accepted,1,a48925
+57222127694,Khader F.,r374,pub497,p497,"Image database TID2013: Peculiarities, results and perspectives",rejected,0,a42941
+58758453100,Wen Z.,r181,pub121,p121,Smart contracts vulnerabilities: a call for blockchain software engineering?,accepted,1,a21834
+58897113400,Lian Z.,r144,pub270,p270,Text Mining for Bioinformatics Using Biomedical Literature,accepted,1,a18047
+57716552500,Liao Y.-L.,r370,pub451,p451,CDD: NCBI's conserved domain database,accepted,1,a26105
+58669929700,Deng X.,r380,pub171,p171,Guide to the Software Engineering Body of Knowledge (SWEBOK(R)): Version 3.0,rejected,0,a75766
+57192689334,Wang Z.,r195,pub189,p189,Investigating Country Differences in Mobile App User Behavior and Challenges for Software Engineering,accepted,1,a15707
+36774590700,Gao S.,r405,pub267,p267,Network Inference and Reconstruction in Bioinformatics,accepted,1,a21976
+57222048472,Su Y.,r275,pub49,p49,Health Care and Precision Medicine Research: Analysis of a Scalable Data Science Platform,accepted,1,a44262
+57203599042,Klein B.E.K.,r446,pub364,p364,Applying Graph theory to the Internet of Things,rejected,0,a23776
+57202076376,Nazar M.,r141,pub247,p247,Taverna: a tool for the composition and enactment of bioinformatics workflows,accepted,1,a30080
+57917306300,Mortaz Hejri F.,r397,pub256,p256,Metabolomics technology and bioinformatics for precision medicine,accepted,1,a66842
+57205541338,Tran K.,r67,pub7,p7,Eleven grand challenges in single-cell data science,accepted,1,a61373
+58895796500,Liao H.,r210,pub52,p52,Data science in data librarianship: Core competencies of a data librarian,rejected,0,a6776
+58046913100,Lakkis M.H.,r168,pub92,p92,Fundamentals of Clinical Data Science,accepted,1,a92787
+58148895900,Li A.,r494,pub430,p430,The Carbohydrate-Active EnZymes database (CAZy): an expert resource for Glycogenomics,accepted,1,a55016
+36171890900,Jin F.,r376,pub305,p305,Spectral Graph Theory,accepted,1,a9474
+57352567600,Xie L.,r414,pub280,p280,Single-Cell Transcriptomics Bioinformatics and Computational Challenges,rejected,0,a105830
+57190882655,He J.,r272,pub409,p409,The SILVA ribosomal RNA gene database project: improved data processing and web-based tools,accepted,1,a58053
+56024680800,Wang J.,r109,pub325,p325,Graph Theory and Brain Connectivity in Alzheimer’s Disease,accepted,1,a21959
+57276674500,Zhang J.,r248,pub204,p204,"Nanopore sequencing technology, bioinformatics and applications",accepted,1,a5530
+57216251918,Qian C.,r145,pub17,p17,Big-Data Science in Porous Materials: Materials Genomics and Machine Learning,rejected,0,a94856
+57203390103,Yuan Y.,r92,pub457,p457,TCMSP: a database of systems pharmacology for drug discovery from herbal medicines,accepted,1,a3748
+58197991500,Yao Z.,r152,pub23,p23,Fixed Point Strategies in Data Science,accepted,1,a97504
+55837432600,He S.,r368,pub352,p352,Functional connectivity and graph theory in preclinical Alzheimer's disease,accepted,1,a98098
+58837783600,Vieites Diaz M.,r468,pub63,p63,Data Science,rejected,0,a13545
+58855581000,Wang Y.H.,r83,pub284,p284,Bioinformatics applications on Apache Spark,accepted,1,a66199
+58849964500,Cai L.,r245,pub188,p188,Software Engineering Meets Control Theory,accepted,1,a34766
+57872039300,Li J.,r165,pub161,p161,A discipline for software engineering,accepted,1,a73530
+58600122000,Dong F.,r163,pub239,p239,Programmatic access to bioinformatics tools from EMBL-EBI update: 2017,rejected,0,a93557
+56532751000,He J.,r199,pub165,p165,Software-Specific Named Entity Recognition in Software Engineering Social Content,accepted,1,a61087
+57193728243,Wang S.,r228,pub349,p349,Water Network Sectorization Based on Graph Theory and Energy Performance Indices,accepted,1,a95839
+43661831600,Prashar D.,r74,pub252,p252,A novel features ranking metric with application to scalable visual and bioinformatics data classification,accepted,1,a68840
+57739870100,Dong J.,r479,pub0,p0,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",rejected,0,a54384
+57562234300,Zhang Y.,r358,pub130,p130,Design Science Methodology for Information Systems and Software Engineering,accepted,1,a51005
+57256522000,Yan A.,r250,pub196,p196,Fundamentals of Software Engineering,accepted,1,a46576
+57192830705,Wang F.,r119,pub458,p458,"NCBI reference sequences (RefSeq): a curated non-redundant sequence database of genomes, transcripts and proteins",accepted,1,a39353
+55329940200,Wei J.,r310,pub456,p456,"Repbase Update, a database of repetitive elements in eukaryotic genomes",rejected,0,a62003
+57199112215,Zhang Q.,r299,pub5,p5,Computational Optimal Transport: With Applications to Data Science,accepted,1,a83211
+57193278726,Meng J.,r255,pub229,p229,"Deep learning in bioinformatics: introduction, application, and perspective in big data era",accepted,1,a52733
+58694684000,Meng X.,r354,pub427,p427,"Greengenes, a Chimera-Checked 16S rRNA Gene Database and Workbench Compatible with ARB",accepted,1,a65318
+58866619800,Lipeng J.,r400,pub100,p100,Performing systematic literature reviews in software engineering,rejected,0,a89474
+57741576800,Wang X.,r225,pub207,p207,A Completely Reimplemented MPI Bioinformatics Toolkit with a New HHpred Server at its Core.,accepted,1,a23664
+57207437004,Kim J.,r353,pub389,p389,Systemic Risk in Energy Derivative Markets: A Graph-Theory Analysis,accepted,1,a67172
+57204072570,Li K.,r234,pub20,p20,Opening practice: supporting reproducibility and critical spatial data science,accepted,1,a85616
+58729638700,Xu C.F.,r383,pub220,p220,Piercing the dark matter: bioinformatics of long-range sequencing and mapping,rejected,0,a93264
+57855669800,Zhang K.,r274,pub321,p321,Graph Theory,accepted,1,a26736
+58602114300,Wang T.,r36,pub183,p183,Software Engineering: A Practitioners Approach,accepted,1,a94209
+25639040100,Zhang Q.,r196,pub125,p125,Word Embeddings for the Software Engineering Domain,accepted,1,a103041
+58550541400,Kähönen M.,r139,pub448,p448,Introduction to WordNet: An On-line Lexical Database,rejected,0,a854
+57216355983,Zhou R.,r365,pub480,p480,The Standardized World Income Inequality Database,accepted,1,a90084
+57397602400,Bao L.,r244,pub26,p26,Making data science systems work,accepted,1,a38623
+35565265100,Sharma R.,r440,pub253,p253,A brief history of bioinformatics,accepted,1,a7392
+6603100646,Aletaha D.,r286,pub269,p269,The Road to Metagenomics: From Microbiology to DNA Sequencing Technologies and Bioinformatics,rejected,0,a55680
+55535459800,Zelalem M.,r59,pub83,p83,Open Data Science,accepted,1,a46717
+57189689947,Zhang K.,r111,pub297,p297,Barriers to integration of bioinformatics into undergraduate life sciences education: A national study of US life sciences faculty uncover significant barriers to integrating bioinformatics into undergraduate instruction,accepted,1,a87092
+36008288600,Chen S.,r89,pub452,p452,HMDB: A large video database for human motion recognition,accepted,1,a50859
+55776371700,Hong E.,r437,pub129,p129,Software Engineering Challenges of Deep Learning,rejected,0,a104095
+58112883300,Zhang Z.,r6,pub31,p31,A Fresh Look at Introductory Data Science,accepted,1,a26309
+7402944490,Wu R.,r361,pub115,p115,Systematic Mapping Studies in Software Engineering,accepted,1,a87455
+57936002800,Liu L.,r346,pub74,p74,The 9 Pitfalls of Data Science,accepted,1,a63734
+57215848040,Zhu Y.,r338,pub156,p156,On the use of many quality attributes for software refactoring: a many-objective search-based software engineering approach,rejected,0,a70467
+57991000600,Li Y.,r158,pub498,p498,A New Database on Financial Development and Structure,accepted,1,a52662
+57222159458,Liu Y.,r150,pub118,p118,Sentiment Analysis for Software Engineering: How Far Can We Go?,accepted,1,a98506
+8438299600,Cadeddu S.,r177,pub493,p493,APD3: the antimicrobial peptide database as a tool for research and education,accepted,1,a12688
+57210123532,Zhang S.,r394,pub336,p336,An Introduction to Bipolar Single Valued Neutrosophic Graph Theory,rejected,0,a25342
+58853186100,Zhang H.Q.,r184,pub282,p282,Bioinformatics core competencies for undergraduate life sciences education,accepted,1,a37157
+58687725700,Du W.,r450,pub471,p471,New tools in comparative political economy : the database of political institutions,accepted,1,a67863
+35318804000,Romero Vidal A.,r10,pub385,p385,Applications of Graph Theory and Network Science to Transit Network Design,accepted,1,a52083
+57313503400,Yang H.,r381,pub208,p208,The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities,rejected,0,a65733
+36124993400,Liu R.-D.,r103,pub491,p491,The FERET database and evaluation procedure for face-recognition algorithms,accepted,1,a89045
+57218204898,Song H.,r81,pub411,p411,ImageNet: A large-scale hierarchical image database,accepted,1,a34698
+54386210700,Yang H.,r38,pub249,p249,Sequence clustering in bioinformatics: an empirical study,accepted,1,a80623
+57204813902,Lai B.-L.,r314,pub173,p173,Are Students Representatives of Professionals in Software Engineering Experiments?,rejected,0,a22671
+57221993020,Ince M.,r167,pub350,p350,The Fascinating World of Graph Theory,accepted,1,a25184
+58609130800,Zhang Z.,r470,pub25,p25,A new paradigm for accelerating clinical data science at Stanford Medicine,accepted,1,a93384
+57212091562,Lin K.,r296,pub447,p447,Molecular signatures database (MSigDB) 3.0,accepted,1,a42107
+57795684700,Wang Z.,r475,pub57,p57,50 Years of Data Science,rejected,0,a86202
+57221405105,Bedeschi F.,r198,pub202,p202,Bioconductor: open software development for computational biology and bioinformatics,accepted,1,a51663
+57827011400,Chen X.,r297,pub178,p178,The “Physics” of Notations: Toward a Scientific Basis for Constructing Visual Notations in Software Engineering,accepted,1,a15708
+56497309900,Zhang R.,r417,pub302,p302,Algebraic Graph Theory,accepted,1,a91906
+58843606000,Wang W.,r146,pub78,p78,What is responsible and sustainable data science?,rejected,0,a49811
+57218517462,Wang L.,r393,pub133,p133,Fundamentals of Software Engineering,accepted,1,a2811
+56222626700,Wang G.,r147,pub32,p32,Human Data Science,accepted,1,a56250
+57412815200,Feng Y.,r448,pub360,p360,Automatic cone photoreceptor segmentation using graph theory and dynamic programming,accepted,1,a72082
+58848816100,Mao L.,r287,pub405,p405,"The STRING database in 2017: quality-controlled protein–protein association networks, made broadly accessible",rejected,0,a34754
+26641752100,Dong K.,r123,pub404,p404,DrugBank 5.0: a major update to the DrugBank database for 2018,accepted,1,a95742
+36816769000,Zhao Y.,r369,pub346,p346,Presurgery resting‐state local graph‐theory measures predict neurocognitive outcomes after brain surgery in temporal lobe epilepsy,accepted,1,a11411
+8659553100,Wang H.,r96,pub163,p163,Student Experiences Using GitHub in Software Engineering Courses: A Case Study,accepted,1,a2911
+7407802742,Wang M.,r143,pub203,p203,Biopython: freely available Python tools for computational molecular biology and bioinformatics,rejected,0,a67270
+58634418600,Kwon S.-G.,r239,pub174,p174,On Non-Functional Requirements in Software Engineering,accepted,1,a83763
+7103207433,Nie X.,r472,pub496,p496,"The MEROPS database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the PANTHER database",accepted,1,a8680
+58733582300,Zhao J.Z.,r97,pub486,p486,"The eICU Collaborative Research Database, a freely available multi-center database for critical care research",accepted,1,a84896
+58744183300,Wang Z.,r408,pub370,p370,"Exponential Random Graph Models for Social Networks: Theory, Methods, and Applications",rejected,0,a83879
+57194381815,Fu L.,r122,pub21,p21,Big Earth Data science: an information framework for a sustainable planet,accepted,1,a71295
+57972430500,Jia J.,r183,pub434,p434,"DAVID: Database for Annotation, Visualization, and Integrated Discovery",accepted,1,a88614
+58594707900,Chen B.,r202,pub295,p295,"Bioinformatics approaches, prospects and challenges of food bioactive peptide research",accepted,1,a100689
+57223762456,Jiang H.,r246,pub287,p287,Designing a course model for distance-based online bioinformatics training in Africa: The H3ABioNet experience,rejected,0,a11111
+57192179666,Xu Y.,r305,pub191,p191,An empirically based terminology and taxonomy for global software engineering,accepted,1,a37504
+55325278900,Ma S.,r298,pub218,p218,Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),accepted,1,a1802
+57217017387,Shafiei N.,r351,pub241,p241,A new bioinformatics analysis tools framework at EMBL–EBI,accepted,1,a8155
+57193928600,Wang Y.,r422,pub195,p195,Eye-Tracking Metrics in Software Engineering,rejected,0,a73656
+56404839700,Yang M.,r396,pub277,p277,Enabling the democratization of the genomics revolution with a fully integrated web-based bioinformatics platform,accepted,1,a39384
+58655707500,Zhao J.,r284,pub419,p419,WordNet : an electronic lexical database,accepted,1,a47254
+57224859500,Arshad J.,r125,pub221,p221,Single-cell RNA sequencing technologies and bioinformatics pipelines,accepted,1,a21918
+21733757400,Cui F.,r302,pub59,p59,Process Mining: Data Science in Action,rejected,0,a85981
+7404516129,Zhou W.,r223,pub293,p293,Reproducible bioinformatics project: a community for reproducible bioinformatics analysis pipelines,accepted,1,a60713
+58178591700,Zhao J.,r425,pub326,p326,Graph Theory 1736 1936,accepted,1,a30306
+58205364000,Wang S.,r219,pub73,p73,Realizing the potential of data science,accepted,1,a16646
+57197800194,Yu F.,r129,pub162,p162,Future Trends in Software Engineering Research for Mobile Apps,rejected,0,a46843
+7202220588,Gu S.,r421,pub479,p479,Comprehensive database for facial expression analysis,accepted,1,a96601
+58477617500,Li C.P.,r289,pub222,p222,Trends in the development of miRNA bioinformatics tools,accepted,1,a90735
+57284348200,Tao L.Y.,r455,pub16,p16,Leveraging Data Science to Combat COVID-19: A Comprehensive Review,accepted,1,a16371
+36168819600,Zuo G.,r377,pub232,p232,BMC Bioinformatics,rejected,0,a77371
+57410684000,Yang X.,r291,pub112,p112,Experimentation in software engineering: an introduction,accepted,1,a2049
+58872373300,Cai H.,r355,pub311,p311,Graph theory methods: applications in brain networks,accepted,1,a31616
+57223669326,Jia Y.,r294,pub45,p45,Outbreak analytics: a developing data science for informing the response to emerging pathogens,accepted,1,a103727
+57861852100,Wang X.,r367,pub12,p12,Cybersecurity data science: an overview from machine learning perspective,rejected,0,a20932
+56171182600,Zhang B.,r340,pub335,p335,"Handbook of graph theory, combinatorial optimization, and algorithms",accepted,1,a29855
+55989530400,Li Z.-Y.,r112,pub422,p422,A global database of COVID-19 vaccinations,accepted,1,a61434
+58729156200,Zhang S.,r179,pub11,p11,"QIIME 2: Reproducible, interactive, scalable, and extensible microbiome data science",accepted,1,a72694
+58381617000,Wang Z.,r307,pub76,p76,Data science from a library and information science perspective,rejected,0,a43016
+57209289795,Ban Y.,r433,pub205,p205,A review of feature selection techniques in bioinformatics,accepted,1,a7400
+57202156357,Guo F.,r488,pub257,p257,A comparison of sequencing platforms and bioinformatics pipelines for compositional analysis of the gut microbiome,accepted,1,a42642
+58283999800,Greenberg C.,r482,pub81,p81,Northstar: An Interactive Data Science System,accepted,1,a15151
+58836216800,Zhu S.Q.,r360,pub465,p465,CDD: a Conserved Domain Database for the functional annotation of proteins,rejected,0,a51407
+14618941800,Bai X.,r233,pub440,p440,"The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored",accepted,1,a66690
+56430263000,Su J.,r311,pub373,p373,"Graph Theory, 4th Edition",accepted,1,a4499
+58856653900,Yang Y.,r164,pub22,p22,Data science in economics: comprehensive review of advanced machine learning and deep learning methods,accepted,1,a6295
+55721767200,Zhang Z.,r136,pub30,p30,Data Science: A Comprehensive Overview,rejected,0,a59040
+57222705098,Che S.,r197,pub248,p248,Data-driven advice for applying machine learning to bioinformatics problems,accepted,1,a12183
+57198667270,Wu H.,r258,pub342,p342,Graph Theory And Sparse Matrix Computation,accepted,1,a29299
+58838535400,Forty R.,r232,pub234,p234,"PATRIC, the bacterial bioinformatics database and analysis resource",accepted,1,a12874
+57213178861,Zhang L.,r115,pub132,p132,A survey of the use of crowdsourcing in software engineering,rejected,0,a32711
+57371889300,Song H.,r120,pub6,p6,Data Science,accepted,1,a5539
+58632436100,Su L.-J.,r349,pub187,p187,A systematic review of systematic review process research in software engineering,accepted,1,a53351
+57504805500,Muchemwa B.,r224,pub154,p154,Evidence-Based Software Engineering and Systematic Reviews,accepted,1,a61267
+7403885239,He Z.-X.,r403,pub190,p190,Happy software developers solve problems better: psychological measurements in empirical software engineering,rejected,0,a48354
+55554931600,Zhang L.,r398,pub355,p355,Algorithmic graph theory and perfect graphs,accepted,1,a2557
+15046493400,Cao Z.-Q.,r127,pub180,p180,Choosing your weapons: On sentiment analysis tools for software engineering research,accepted,1,a38360
+58179069500,Liu J.,r285,pub44,p44,Algorithmic Government: Automating Public Services and Supporting Civil Servants in using Data Science Technologies,accepted,1,a82018
+58861977400,Xu Y.,r412,pub371,p371,Test-Retest Reliability of Graph Theory Measures of Structural Brain Connectivity,rejected,0,a2200
+58545238200,Chen S.,r107,pub168,p168,Modeling in Event-B - System and Software Engineering,accepted,1,a68497
+6603967387,Semenza J.C.,r371,pub303,p303,Graph Theory with Applications,accepted,1,a46975
+57193007912,Zeng C.,r325,pub320,p320,Graph Theory,accepted,1,a21357
+58415001600,Deng C.,r133,pub410,p410,The Molecular Signatures Database Hallmark Gene Set Collection,rejected,0,a77505
+58821121400,Yan G.,r364,pub91,p91,Network embedding in biomedical data science,accepted,1,a2869
+8616230700,Yin B.,r44,pub167,p167,Experimentation in Software Engineering,accepted,1,a61135
+57202154191,Arici H.E.,r461,pub146,p146,Cognitive Biases in Software Engineering: A Systematic Mapping Study,accepted,1,a50108
+58607660800,Chen X.T.,r65,pub394,p394,Handbook of graph theory,rejected,0,a94179
+57656775300,Wang R.,r283,pub393,p393,Topological Graph Theory,accepted,1,a90272
+35271358300,Chen J.,r85,pub288,p288,Bioinformatics for precision oncology,accepted,1,a38467
+57190741171,Bao Y.,r242,pub236,p236,Bioinformatics and Computational Tools for Next-Generation Sequencing Analysis in Clinical Genetics,accepted,1,a23328
+57883404500,Xiaohui J.,r186,pub401,p401,The PRIDE database and related tools and resources in 2019: improving support for quantification data,rejected,0,a91412
+57219178636,Chen Q.,r384,pub380,p380,"An $L^p$ theory of sparse graph convergence I: Limits, sparse random graph models, and power law distributions",accepted,1,a86831
+57212899583,Qin Y.,r159,pub55,p55,Genomics and data science: an application within an umbrella,accepted,1,a3987
+58503190200,Fu Y.,r12,pub362,p362,A Simple Algorithm for the Graph Minor Decomposition - Logic meets Structural Graph Theory,accepted,1,a58871
+56018363600,Wang X.,r35,pub185,p185,Agent-Oriented Software Engineering,rejected,0,a22399
+57966069500,Pan S.,r28,pub114,p114,Systematic literature reviews in software engineering - A systematic literature review,accepted,1,a46214
+58477822400,Zhang X.,r170,pub461,p461,CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database,accepted,1,a99522
+55145222000,Levitan R.,r142,pub223,p223,Unipro UGENE: a unified bioinformatics toolkit,accepted,1,a86416
+57447998700,Wu M.,r399,pub300,p300,Spectral graph theory,rejected,0,a70271
+50862376300,Xie Y.,r342,pub353,p353,An Introduction To The Theory Of Graph Spectra,accepted,1,a44064
+57211978190,Hu R.,r221,pub113,p113,A Taxonomy of Software Engineering Challenges for Machine Learning Systems: An Empirical Investigation,accepted,1,a70091
+56970679000,Duan F.,r95,pub80,p80,Data Science as Political Action: Grounding Data Science in a Politics of Justice,accepted,1,a40818
+57201598587,Jin L.,r51,pub283,p283,"Review of Current Methods, Applications, and Data Management for the Bioinformatics Analysis of Whole Exome Sequencing",rejected,0,a45525
+35768929800,Giacinti G.,r240,pub345,p345,Rational exponents in extremal graph theory,accepted,1,a19830
+57387028000,Drozdova M.,r373,pub315,p315,Thermal Modeling in Metal Additive Manufacturing Using Graph Theory,accepted,1,a17429
+57216940144,Gill S.S.,r391,pub36,p36,Statistical Foundations of Data Science,accepted,1,a6893
+57215431026,Zhang Y.,r178,pub89,p89,Data Science as Machinic Neoplatonism,rejected,0,a79909
+58636486800,Sun Y.,r41,pub175,p175,A practical guide to controlled experiments of software engineering tools with human participants,accepted,1,a47333
+7403424578,Huang G.,r436,pub474,p474,The HITRAN2012 molecular spectroscopic database,accepted,1,a3436
+57223231783,Fitri S.N.,r388,pub327,p327,Graph Theory,accepted,1,a74290
+8161590100,Delyfer M.-N.,r206,pub37,p37,Data Science,rejected,0,a76213
+58888819600,Liu Y.,r282,pub123,p123,The ABC of Software Engineering Research,accepted,1,a5895
+56735548800,Liu Y.,r254,pub357,p357,Chemical Graph Theory,accepted,1,a19738
+58404817200,Li Z.,r476,pub391,p391,"Graph Theory, Combinatorics and Algorithms: Interdisciplinary Applications",accepted,1,a30746
+58850760600,Liu J.L.,r4,pub24,p24,Heidelberg colorectal data set for surgical data science in the sensor operating room,rejected,0,a49377
+43561167900,Fan P.,r256,pub39,p39,"How Data Science Workers Work with Data: Discovery, Capture, Curation, Design, Creation",accepted,1,a48404
+12774913300,Liu T.,r449,pub386,p386,Some new results in extremal graph theory,accepted,1,a54045
+55804635400,Liu G.,r100,pub477,p477,Database resources of the National Center for Biotechnology Information: update,accepted,1,a97888
+57674105800,Yuan Y.,r226,pub331,p331,"Network science and the human brain: Using graph theory to understand the brain and one of its hubs, the amygdala, in health and disease",rejected,0,a39790
+58865509800,Sun Y.,r428,pub399,p399,APPLICATIONS OF GRAPH THEORY IN COMPUTER SCIENCE AN OVERVIEW,accepted,1,a5600
+55556504800,Ni Y.,r213,pub194,p194,Guidelines for Conducting Surveys in Software Engineering,accepted,1,a94660
+7404408227,He X.,r423,pub136,p136,On negative results when using sentiment analysis tools for software engineering research,accepted,1,a93179
+58493309900,Wang L.,r171,pub463,p463,The ChEMBL database in 2017,rejected,0,a40764
+57191864038,Yasmin F.,r98,pub122,p122,Continuous software engineering: A roadmap and agenda,accepted,1,a74543
+55317834100,Da Cunha Sargedas De Sousa M.J.,r292,pub322,p322,BRAPH: A graph theory software for the analysis of brain connectivity,accepted,1,a45714
+58548279600,Li K.,r215,pub104,p104,Software Engineering: A Practitioner's Approach,accepted,1,a56835
+8541265200,Wang Z.,r61,pub266,p266,A novel hierarchical selective ensemble classifier with bioinformatics application,rejected,0,a102946
+58509583400,Silva F.D.A.,r47,pub97,p97,Data Science for Undergraduates,accepted,1,a73744
+57157484800,Li B.,r32,pub356,p356,Extremal Graph Theory,accepted,1,a56491
+58891688400,Goncalves Gama R.,r267,pub67,p67,Geographic Data Science,accepted,1,a18589
+36466015600,Chen L.,r327,pub328,p328,Cytoscape.js: a graph theory library for visualisation and analysis,rejected,0,a43484
+57224911563,Liu J.,r200,pub88,p88,Trust in Data Science,accepted,1,a82989
+56237795400,Su Z.,r447,pub119,p119,Empirical software engineering experts on the use of students and professionals in experiments,accepted,1,a36212
+57191225348,Khorrami M.,r27,pub472,p472,miRDB: an online database for prediction of functional microRNA targets,accepted,1,a43525
+7203036044,Liang P.,r390,pub467,p467,"Repbase Update, a database of eukaryotic repetitive elements",rejected,0,a47202
+58521794900,Qu H.,r230,pub159,p159,Systems and Software Engineering,accepted,1,a32635
+57211507400,Chu Z.,r260,pub444,p444,A fast quantum mechanical algorithm for database search,accepted,1,a63208
+57221112330,Ge J.,r288,pub215,p215,"Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center",accepted,1,a33828
+57219640641,Gokuldass P.,r162,pub144,p144,Model-Based Software Engineering to Tame the IoT Jungle,rejected,0,a18711
+57193568142,Yang Y.,r426,pub417,p417,Pfam: The protein families database in 2021,accepted,1,a3420
+58307791200,Wu Y.,r138,pub337,p337,Wavelets on Graphs via Spectral Graph Theory,accepted,1,a96752
+58296394800,Zhang Z.,r62,pub177,p177,Towards a decision-making structure for selecting a research design in empirical software engineering,accepted,1,a301
+57202562724,Shiyakova M.,r135,pub466,p466,Plant cis-acting regulatory DNA elements (PLACE) database: 1999,rejected,0,a45236
+58841974800,Zhou X.,r128,pub483,p483,The Cambridge Structural Database in retrospect and prospect.,accepted,1,a66235
+57215498535,Zhang X.,r477,pub487,p487,MODOMICS: a database of RNA modification pathways. 2017 update,accepted,1,a54240
+57395395900,Wang B.,r8,pub377,p377,Using graph theory to analyze biological networks,accepted,1,a65726
+36555230900,Yu C.,r326,pub19,p19,Finding Related Tables in Data Lakes for Interactive Data Science,rejected,0,a10492
+7401808386,Zhong Y.,r464,pub98,p98,"Three principles of data science: predictability, computability, and stability (PCS)",accepted,1,a101279
+57287993700,Wang T.,r64,pub8,p8,Computing competencies for undergraduate data science curricula,accepted,1,a6102
+56425074500,Barnes S.L.,r300,pub462,p462,The AR face database,accepted,1,a50336
+57221336440,Perez A.,r14,pub214,p214,Snakemake - a scalable bioinformatics workflow engine,rejected,0,a85314
+35757511500,Dai L.,r156,pub46,p46,"Practitioners Teaching Data Science in Industry and Academia: Expectations, Workflows, and Challenges",accepted,1,a26641
+6701834502,Yanaba Y.,r40,pub53,p53,A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks,accepted,1,a34584
+58867616700,Huang F.,r379,pub260,p260,Performance measures in evaluating machine learning based bioinformatics predictors for classifications,accepted,1,a32745
+58683665500,An J.,r460,pub4,p4,AutoDS: Towards Human-Centered Automation of Data Science,rejected,0,a23093
+58852916700,Zhang H.H.,r404,pub261,p261,A Review of Bioinformatics Tools for Bio-Prospecting from Metagenomic Sequence Data,accepted,1,a66105
+57819875000,Jiang H.,r216,pub441,p441,Learning Deep Features for Scene Recognition using Places Database,accepted,1,a103746
+57188625041,Li J.,r279,pub258,p258,Manual for Using Homomorphic Encryption for Bioinformatics,accepted,1,a100199
+49561522500,Kandybei S.,r499,pub240,p240,VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases,rejected,0,a51885
+7402252943,Song G.-L.,r431,pub217,p217,Deep learning in bioinformatics,accepted,1,a36631
+57223981975,Wen R.,r337,pub312,p312,"Electrical Networks and Algebraic Graph Theory: Models, Properties, and Applications",accepted,1,a72991
+57208199624,Zou Y.,r236,pub489,p489,The Pfam protein families database,accepted,1,a4014
+56411404900,Zhang A.,r207,pub106,p106,Guidelines for snowballing in systematic literature studies and a replication in software engineering,rejected,0,a11093
+58853413500,Qi H.R.,r212,pub329,p329,Study of biological networks using graph theory,accepted,1,a18070
+7403358862,Ng S.-K.,r295,pub365,p365,Fuzzy Graph Theory: A Survey,accepted,1,a35777
+56306672000,Yang B.,r487,pub242,p242,DAVID Bioinformatics Resources: expanded annotation database and novel algorithms to better extract biology from large gene lists,accepted,1,a56958
+58645541700,Shi F.,r251,pub372,p372,Link Prediction Based on Graph Neural Networks,rejected,0,a82074
+57194526398,Cai L.,r489,pub309,p309,Introduction to Graph Theory,accepted,1,a10729
+55547103616,Ghosh S.,r469,pub62,p62,INTRODUCTION TO DATA SCIENCE,accepted,1,a99713
+36494910900,Keaveney J.M.,r303,pub490,p490,GENEVESTIGATOR. Arabidopsis Microarray Database and Analysis Toolbox1[w],accepted,1,a45017
+58730085900,Zhu L.,r350,pub147,p147,Software Engineering,rejected,0,a66320
+58838329900,Zhao P.,r269,pub71,p71,A First Course in Data Science,accepted,1,a27751
+57723978900,Ullah I.,r201,pub58,p58,Bayesian Optimization and Data Science,accepted,1,a105864
+56328590200,Zhang M.,r161,pub259,p259,A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples,accepted,1,a78069
+57932441400,Chen L.,r43,pub51,p51,Data Science of the Natural Environment: A Research Roadmap,rejected,0,a105647
+23398846800,Zhou L.,r217,pub198,p198,"Software Product Line Engineering - Foundations, Principles, and Techniques",accepted,1,a105510
+57216564078,Yang L.,r401,pub436,p436,Empirical statistical model to estimate the accuracy of peptide identifications made by MS/MS and database search.,accepted,1,a54748
+36610358700,Jin J.,r190,pub225,p225,Deep learning-based clustering approaches for bioinformatics,accepted,1,a5801
+25721886200,Baoyin H.,r309,pub332,p332,Band connectivity for topological quantum chemistry: Band structures as a graph theory problem,rejected,0,a19190
+7003291652,Younas M.,r259,pub61,p61,Upscaling urban data science for global climate solutions,accepted,1,a49689
+57217348881,Tu Y.,r105,pub10,p10,Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl,accepted,1,a104290
+58781798700,Ma Z.,r53,pub429,p429,Freebase: a collaboratively created graph database for structuring human knowledge,accepted,1,a50993
+58900207600,Xu X.,r389,pub464,p464,SUN database: Large-scale scene recognition from abbey to zoo,rejected,0,a29592
+57191841764,Gong W.,r1,pub318,p318,A GENERAL POSITION PROBLEM IN GRAPH THEORY,accepted,1,a10647
+7403385234,Yu K.-C.,r442,pub294,p294,Bioinformatics in translational drug discovery,accepted,1,a8716
+57217684979,Sun Y.,r483,pub197,p197,Green in Software Engineering,accepted,1,a88891
+7202432336,Field C.B.,r49,pub379,p379,Graph theory and molecular orbitals. Total φ-electron energy of alternant hydrocarbons,rejected,0,a87545
+7103294751,Shepherd T.M.,r419,pub60,p60,The Challenge of Big Data and Data Science,accepted,1,a89912
+6602169209,Meraghni F.,r80,pub437,p437,Ribosomal Database Project: data and tools for high throughput rRNA analysis,accepted,1,a70316
+57226421217,Wu L.,r205,pub186,p186,Search based software engineering for software product line engineering: a survey and directions for future work,accepted,1,a2368
+57992980100,Cao Y.,r34,pub139,p139,Leveraging Automated Sentiment Analysis in Software Engineering,rejected,0,a77575
+57201828043,Goodwin P.,r263,pub343,p343,Algorithmic graph theory and perfect graphs,accepted,1,a6655
+57962926500,Wang D.,r427,pub453,p453,"PlantCARE, a database of plant cis-acting regulatory elements and a portal to tools for in silico analysis of promoter sequences",accepted,1,a70031
+57733746000,Yang Y.,r366,pub304,p304,Introduction to graph theory,accepted,1,a76429
+8670791000,Noy M.,r91,pub398,p398,Graph Theory,rejected,0,a91083
+57224074869,Tressel J.,r339,pub72,p72,ACM Task Force on Data Science Education: Draft Report and Opportunity for Feedback,accepted,1,a87922
+58108409500,Xie Y.,r474,pub192,p192,Behavioral software engineering: A definition and systematic literature review,accepted,1,a55766
+57193681172,Saur M.,r52,pub431,p431,CDD/SPARCLE: the conserved domain database in 2020,accepted,1,a13403
+57210311393,Zhang A.,r345,pub152,p152,"Crowdsourcing in Software Engineering: Models, Motivations, and Challenges",rejected,0,a32097
+57461892400,Wang C.,r264,pub292,p292,Metagenomics and Bioinformatics in Microbial Ecology: Current Status and Beyond,accepted,1,a78657
+57208037461,Laskar M.A.,r241,pub145,p145,Key Abstractions for IoT-Oriented Software Engineering,accepted,1,a10966
+57205661880,Cui X.,r13,pub323,p323,Modern Graph Theory,accepted,1,a99157
+58597202700,Zhu S.Q.,r315,pub157,p157,Open innovation in software engineering: a systematic mapping study,rejected,0,a93848
+57231360900,Xie Y.,r88,pub492,p492,The Gene Expression Omnibus Database,accepted,1,a52921
+55470721700,Fang H.,r387,pub141,p141,Experimentation in Software Engineering,accepted,1,a49726
+56612037000,Álvarez Piqueras D.,r273,pub428,p428,CARD 2020: antibiotic resistome surveillance with the comprehensive antibiotic resistance database,accepted,1,a50300
+57698931700,Wen C.-B.,r166,pub2,p2,CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories,rejected,0,a22677
+58659838600,Tang G.,r328,pub176,p176,Docker [Software engineering],accepted,1,a55609
+58251794800,Zhou L.,r493,pub64,p64,Situating Data Science: Exploring How Relationships to Data Shape Learning,accepted,1,a96825
+23393749700,Pretto A.,r134,pub388,p388,Applications of Graph Theory in Computer Science,accepted,1,a56661
+55710510200,Kim K.,r306,pub339,p339,Molecular Orbital Calculations Using Chemical Graph Theory,rejected,0,a31024
+7402846932,Yamaguchi N.,r481,pub358,p358,Graph theory in the geosciences,accepted,1,a70313
+14057983200,Fedorov A.S.,r319,pub488,p488,The IPD and IMGT/HLA database: allele variant databases,accepted,1,a53006
+57289693700,Cao J.,r243,pub475,p475,Protein backbone angle restraints from searching a database for chemical shift and sequence homology,accepted,1,a95285
+57435918200,Mu Y.,r54,pub265,p265,An overview of bioinformatics tools for epitope prediction: Implications on vaccine development,rejected,0,a15338
+58681488100,Li Y.,r363,pub376,p376,Recent developments in graph Ramsey theory,accepted,1,a68027
+58160495500,Kukihara M.,r50,pub238,p238,Recent Advances of Deep Learning in Bioinformatics and Computational Biology,accepted,1,a92772
+57059683000,Jin S.,r457,pub459,p459,LabelMe: A Database and Web-Based Tool for Image Annotation,accepted,1,a80135
+58879707900,Ran L.,r174,pub439,p439,The InterPro protein families and domains database: 20 years on,rejected,0,a19508
+55971567500,Li J.,r445,pub271,p271,A global perspective on evolving bioinformatics and data science training needs,accepted,1,a3051
+58419163000,Zhou T.,r189,pub184,p184,The (R) Evolution of social media in software engineering,accepted,1,a48747
+57207324004,Ma B.,r497,pub235,p235,The Bio3D packages for structural bioinformatics,accepted,1,a87142
+57917828800,Song D.,r187,pub244,p244,Bioinformatics and Computational Biology Solutions Using R and Bioconductor (Statistics for Biology and Health),rejected,0,a87235
+55595916600,Lu C.,r169,pub317,p317,Graph Theory with Applications,accepted,1,a54021
+57217850476,Qiu C.-D.,r58,pub445,p445,dbSNP: the NCBI database of genetic variation,accepted,1,a66412
+57202370405,Wang X.,r48,pub28,p28,Glossary for public health surveillance in the age of data science,accepted,1,a58335
+55857751300,Štefánik D.,r344,pub301,p301,Graph theory,rejected,0,a56179
+58623028400,Zeng F.,r235,pub494,p494,IEMOCAP: interactive emotional dyadic motion capture database,accepted,1,a32093
+57226272376,Hu Y.,r252,pub378,p378,Spectral Graph Theory,accepted,1,a69678
+57206849371,Gu S.,r21,pub478,p478,The BioGRID interaction database: 2019 update,accepted,1,a80738
+58310225200,Cui M.,r313,pub95,p95,Process Mining: Data science in Action,rejected,0,a39734
+57222990238,Bai W.,r459,pub415,p415,The Pfam protein families database in 2019,accepted,1,a72615
+36638922000,Ye H.,r160,pub273,p273,Bioinformatics research at BGRS-2018,accepted,1,a73523
+56358489700,Calvaresi D.,r276,pub140,p140,"Model-Driven Software Engineering in Practice, Second Edition",accepted,1,a105103
+26029654100,Zhu L.,r443,pub268,p268,Snakemake - a scalable bioinformatics workflow engine,rejected,0,a94476
+58062330100,Song S.,r191,pub246,p246,Impacts of bioinformatics to medicinal chemistry.,accepted,1,a102769
+26658859100,Kuutmann E.B.,r385,pub250,p250,Influenza Research Database: An integrated bioinformatics resource for influenza virus research,accepted,1,a17019
+57581062900,Yan C.,r293,pub413,p413,The carbohydrate-active enzymes database (CAZy) in 2013,accepted,1,a83613
+58619105500,You X.-C.,r413,pub33,p33,The Democratization of Data Science Education,rejected,0,a91794
+54402309000,Cao Z.,r343,pub169,p169,Global Software Engineering: Evolution and Trends,accepted,1,a86672
+58742334500,Li H.,r257,pub226,p226,The bioinformatics toolbox for circRNA discovery and analysis,accepted,1,a73847
+57102252100,Ma L.,r308,pub310,p310,Graph Theory,accepted,1,a82750
+57223747374,Yuan T.,r149,pub449,p449,The Pfam protein families database,rejected,0,a79634
+56430209200,Huang D.,r130,pub381,p381,Active semi-supervised learning using sampling theory for graph signals,accepted,1,a28251
+57544410800,Zhong J.,r151,pub107,p107,Software Engineering,accepted,1,a103481
+58860536900,Qing Q.,r359,pub425,p425,Labeled Faces in the Wild: A Database forStudying Face Recognition in Unconstrained Environments,accepted,1,a25945
+58389409800,Zhang Z.L.,r99,pub15,p15,"Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence",rejected,0,a90852
+57204143295,Bai D.,r372,pub160,p160,Crossover Designs in Software Engineering Experiments: Benefits and Perils,accepted,1,a32217
+35222499300,Valencia Palomo L.,r87,pub209,p209,The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes,accepted,1,a8308
+35194229000,Mei H.,r458,pub396,p396,A graph‐theory algorithm for rapid protein side‐chain prediction,accepted,1,a5949
+57195837810,Mombächer T.,r330,pub408,p408,Pfam: the protein families database,rejected,0,a51990
+57219052385,Wang Z.,r214,pub469,p469,ChEMBL: a large-scale bioactivity database for drug discovery,accepted,1,a1150
+57201667725,Wu N.,r466,pub348,p348,Neutrosophic Graphs: A New Dimension to Graph Theory,accepted,1,a89480
+57455949200,Feng L.,r121,pub3,p3,"Data Science and Analytics: An Overview from Data-Driven Smart Computing, Decision-Making and Applications Perspective",accepted,1,a100235
+24305818300,Gao J.,r102,pub375,p375,A review of evolutionary graph theory with applications to game theory,rejected,0,a74740
+55715428700,Liu L.,r20,pub14,p14,Data Science,accepted,1,a66617
+58488017100,Zhou Z.,r188,pub38,p38,Data Science,accepted,1,a94841
+58838551700,Arnold H.,r71,pub363,p363,Complex brain networks: graph theoretical analysis of structural and functional systems,accepted,1,a16896
+57220516560,Hrabovsky M.,r106,pub470,p470,Human Protein Reference Database—2009 update,rejected,0,a46175
+35285430400,Daskalakis G.,r270,pub182,p182,Views on Internal and External Validity in Empirical Software Engineering,accepted,1,a7805
+6602759441,Ortigosa P.M.,r348,pub473,p473,The impact of the MIT-BIH Arrhythmia Database,accepted,1,a5237
+58861739000,Luan G.,r435,pub423,p423,GTDB-Tk: a toolkit to classify genomes with the Genome Taxonomy Database,accepted,1,a20056
