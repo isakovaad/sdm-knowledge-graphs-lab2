@@ -1,0 +1,89 @@
+Query 1:
+
+PREFIX lab: <http://SDM_LAB2.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?author ?name
+WHERE {
+    ?author rdf:type lab:Author .
+    ?author lab:Name ?name .
+}
+
+
+
+Query 2:
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT ?property
+WHERE
+{
+    ?property rdfs:domain lab:Author .
+}
+
+
+
+Query 3:
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT ?property
+WHERE {
+    {
+        ?property rdfs:domain lab:Conference.
+    }
+    UNION
+    {
+        ?property rdfs:domain lab:Journal.
+    }
+}
+
+
+
+
+Query 4:
+
+PREFIX lab: <http://SDM_LAB2.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?paper ?title
+WHERE {
+    ?author lab:Name "Chen Y." .
+    ?author lab:writes ?paper .
+    ?paper lab:title ?title .
+    ?paper lab:isPublishedInConference ?proceedings .
+    ?proceedings lab:proceedingRelatedTo ?topic .
+    ?topic lab:topicName "Chlorine compounds" .
+}
+
+
+
+Query 5: Retrieve the average length of papers published in each journal.
+
+PREFIX lab: <http://SDM_LAB2.org/>
+SELECT ?journal (AVG(STRLEN(?abstract)) AS ?avgAbstractLength)
+WHERE {
+  ?paper a lab:Paper ;
+         lab:publishedAs ?publication ;
+         lab:isPublishedInJournal ?journal .
+  OPTIONAL { ?paper lab:abstract ?abstract }
+}
+GROUP BY ?journal
+ORDER BY DESC(?avgAbstractLength)
+
+
+
+Query 6: List the conferences with the highest number of papers published.
+
+PREFIX lab: <http://SDM_LAB2.org/>
+SELECT ?conference (COUNT(?paper) AS ?numPapers)
+WHERE {
+  ?paper a lab:Paper ;
+         lab:isPublishedInConference ?conference .
+}
+GROUP BY ?conference
+ORDER BY DESC(?numPapers)
+LIMIT 10
