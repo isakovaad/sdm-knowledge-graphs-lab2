@@ -1,0 +1,131 @@
+1. Querying the Number of Instances for Each Class
+
+PREFIX lab: <http://SDM_LAB2.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?class (COUNT(?instance) AS ?count)
+WHERE {
+  ?instance rdf:type ?class .
+  FILTER(?class IN (lab:Author, lab:Paper, lab:Publication, lab:Topic, lab:Proceedings, lab:Volume, lab:Conference, lab:Journal, lab:Chair, lab:Editor, lab:Reviewer, lab:Review))
+}
+GROUP BY ?class
+ORDER BY ?class
+
+
+
+2. Querying the Number of Triples for Each Property
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT ?property (COUNT(?subject) AS ?count)
+WHERE {
+  ?subject ?property ?object .
+  FILTER(?property IN (lab:writes, lab:publishedAs, lab:paperRelatedTo, lab:isIn, lab:isOf, lab:isPublishedInConference, lab:isPublishedInJournal, lab:proceedingsRelatedTo, lab:volumeRelatedTo, lab:handleConference, lab:handleJournal, lab:assigns, lab:reviewed, lab:isReviewOf))
+}
+GROUP BY ?property
+ORDER BY ?property
+
+
+
+3. Querying the Total Number of Triples
+
+SELECT (COUNT(?s) AS ?count)
+WHERE {
+  ?s ?p ?o .
+}
+
+
+
+4. Count the Number of Instances for Each Main Class
+
+PREFIX lab: <http://SDM_LAB2.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT (COUNT(?instance) AS ?numAuthors)
+WHERE {
+  ?instance rdf:type lab:Author .
+}
+
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT (COUNT(?instance) AS ?numPapers)
+WHERE {
+  ?instance rdf:type lab:Paper .
+}
+
+
+SELECT (COUNT(?instance) AS ?numPublications)
+WHERE {
+  ?instance rdf:type lab:Publication .
+}
+
+
+SELECT (COUNT(?instance) AS ?numTopics)
+WHERE {
+  ?instance rdf:type lab:Topic .
+}
+
+
+
+SELECT (COUNT(?instance) AS ?numProceedings)
+WHERE {
+  ?instance rdf:type lab:Proceedings .
+}
+
+
+
+SELECT (COUNT(?instance) AS ?numVolumes)
+WHERE {
+  ?instance rdf:type lab:Volume .
+}
+
+
+
+5. Count the Number of Triples Using Main Properties
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT (COUNT(?s) AS ?numWrites)
+WHERE {
+  ?s lab:writes ?o .
+}
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT (COUNT(?s) AS ?numPublishedAs)
+WHERE {
+  ?s lab:publishedAs ?o .
+}
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT (COUNT(?s) AS ?numPaperRelatedTo)
+WHERE {
+  ?s lab:paperRelatedTo ?o .
+}
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT (COUNT(?s) AS ?numIsIn)
+WHERE {
+  ?s lab:isIn ?o .
+}
+
+
+PREFIX lab: <http://SDM_LAB2.org/>
+
+SELECT (COUNT(?s) AS ?numIsOf)
+WHERE {
+  ?s lab:isOf ?o .
+}
+
+
+
