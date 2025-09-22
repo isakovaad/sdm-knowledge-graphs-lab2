@@ -1,4 +1,4 @@
-# Semantic Data Management - Knowledge Graph Lab Assignment
+# Semantic Data Management - Knowledge Graphs
 
 This repository contains the implementation of a Knowledge Graph for academic publication data from Tsinghua University's computer science field (2018-2023), sourced from the Scopus database. The project demonstrates the construction and querying of a semantic data model using RDF/RDFS technologies.
 
@@ -35,10 +35,10 @@ The project builds a comprehensive knowledge graph that models the academic publ
 ![TBOX Visual Representation](B1_TBOXCreation_VisualRepresentation.png)
 
 ### Class Hierarchy
-![Class Hierarchy](B1_TBOX_GraphDB_ClassHierarchy.png)
+<img src="B1_TBOX_GraphDB_ClassHierarchy.png" alt="Class Hierarchy" width="400">
 
 ### Class Relationships
-![Class Relationships](B1_TBOX_GraphDB_ClassRelationships.png)
+<img src="B1_TBOX_GraphDB_ClassRelationships.png" alt="Class Relationships" width="400">
 
 
 - **`B1_TBOXCreation_VisualRepresentation.png`** - Visual schema representation
