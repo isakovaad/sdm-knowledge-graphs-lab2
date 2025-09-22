@@ -30,6 +30,17 @@ The project builds a comprehensive knowledge graph that models the academic publ
 - **`B4_Queries.txt`** - Complex SPARQL queries for data retrieval
 
 ### Visualizations
+
+### TBOX Schema
+![TBOX Visual Representation](B1_TBOXCreation_VisualRepresentation.png)
+
+### Class Hierarchy
+![Class Hierarchy](B1_TBOX_GraphDB_ClassHierarchy.png)
+
+### Class Relationships
+![Class Relationships](B1_TBOX_GraphDB_ClassRelationships.png)
+
+
 - **`B1_TBOXCreation_VisualRepresentation.png`** - Visual schema representation
 - **`B1_TBOX_GraphDB_ClassHierarchy.png`** - Class hierarchy visualization
 - **`B1_TBOX_GraphDB_ClassRelationships.png`** - Class relationship diagram
