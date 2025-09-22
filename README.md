@@ -78,7 +78,7 @@ The project builds a comprehensive knowledge graph that models the academic publ
 
 ## Authors
 
-- **Dilbar Isakova** - dilbar.isakova@estudiantat.upc.edu
+- **Dilbar Isakova** - dilbar.isakova@student-cs.fr
 - **Narmina Mahmudova** - narmina.mahmudova@estudiantat.upc.edu
 
 ## Course Information
